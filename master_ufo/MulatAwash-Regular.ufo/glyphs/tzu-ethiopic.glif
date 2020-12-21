@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tzu-ethiopic" format="2">
+  <advance width="335"/>
+  <unicode hex="1341"/>
+  <anchor x="198" y="207" name="belt"/>
+  <anchor x="172" y="-19" name="haa"/>
+  <anchor x="102" y="-33" name="haa.acute"/>
+  <anchor x="251" y="354" name="he.acute"/>
+  <anchor x="135" y="-101" name="hee"/>
+  <anchor x="149" y="-8" name="hi"/>
+  <anchor x="317" y="215" name="hu"/>
+  <anchor x="117" y="-18" name="hwa"/>
+  <anchor x="218" y="343" name="neck"/>
+  <outline>
+    <component base="oPh.base"/>
+    <component base="_smart.hu" xOffset="316" yOffset="-302"/>
+    <component base="_smart.belt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.belt</key>
+      <integer>1</integer>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

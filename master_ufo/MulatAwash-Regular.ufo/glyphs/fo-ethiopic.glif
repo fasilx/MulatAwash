@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fo-ethiopic" format="2">
+  <advance width="375"/>
+  <unicode hex="134E"/>
+  <anchor x="253" y="-6" name="haa"/>
+  <anchor x="346" y="142" name="hee"/>
+  <anchor x="301" y="171" name="hi"/>
+  <anchor x="223" y="-69" name="hu"/>
+  <outline>
+    <component base="fa.base"/>
+  </outline>
+</glyph>

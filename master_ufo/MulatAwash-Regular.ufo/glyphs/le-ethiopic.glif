@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="le-ethiopic" format="2">
+  <advance width="332"/>
+  <unicode hex="120D"/>
+  <anchor x="198" y="-1" name="haa"/>
+  <anchor x="204" y="-111" name="hee"/>
+  <anchor x="237" y="-55" name="hi"/>
+  <anchor x="364" y="324" name="ho.ring"/>
+  <anchor x="366" y="330" name="hu"/>
+  <anchor x="190" y="2" name="hwa"/>
+  <outline>
+    <contour>
+      <point x="125" y="9" type="curve" smooth="yes"/>
+      <point x="153" y="31"/>
+      <point x="155" y="66"/>
+      <point x="131" y="85" type="curve" smooth="yes"/>
+      <point x="118" y="96"/>
+      <point x="91" y="103"/>
+      <point x="63" y="94" type="curve" smooth="yes"/>
+      <point x="25" y="82"/>
+      <point x="14" y="54"/>
+      <point x="14" y="37" type="curve" smooth="yes"/>
+      <point x="14" y="-5"/>
+      <point x="77" y="-27"/>
+    </contour>
+    <contour>
+      <point x="77" y="8" type="curve" smooth="yes"/>
+      <point x="37" y="8"/>
+      <point x="40" y="80"/>
+      <point x="83" y="83" type="curve" smooth="yes"/>
+      <point x="100" y="84"/>
+      <point x="112" y="68"/>
+      <point x="111" y="47" type="curve" smooth="yes"/>
+      <point x="108" y="26"/>
+      <point x="94" y="8"/>
+    </contour>
+    <component base="la.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>la.base</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>la.base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="re-ethiopic" format="2">
+  <advance width="260"/>
+  <unicode hex="122D"/>
+  <anchor x="316" y="339" name="ho.ring"/>
+  <outline>
+    <component base="na.base"/>
+  </outline>
+</glyph>

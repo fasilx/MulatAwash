@@ -1,0 +1,68 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+
+
+feature aalt {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+
+} ccmp;
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub one by onesuperior;
+
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+sub two slash three by twothirds;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+
+} ordn;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+
+} liga;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [ha-ethiopic hu-ethiopic hi-ethiopic haa-ethiopic hee-ethiopic he-ethiopic ho-ethiopic hoa-ethiopic la-ethiopic lu-ethiopic li-ethiopic laa-ethiopic lee-ethiopic le-ethiopic lo-ethiopic lwa-ethiopic hha-ethiopic hhu-ethiopic hhi-ethiopic hhaa-ethiopic hhee-ethiopic hhe-ethiopic hho-ethiopic hhwa-ethiopic ma-ethiopic mu-ethiopic mi-ethiopic maa-ethiopic mee-ethiopic me-ethiopic mo-ethiopic mwa-ethiopic sza-ethiopic szu-ethiopic szi-ethiopic szaa-ethiopic szee-ethiopic sze-ethiopic szo-ethiopic szwa-ethiopic ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic re-ethiopic ro-ethiopic rwa-ethiopic sa-ethiopic su-ethiopic si-ethiopic saa-ethiopic see-ethiopic se-ethiopic so-ethiopic swa-ethiopic sha-ethiopic shu-ethiopic shi-ethiopic shaa-ethiopic shee-ethiopic she-ethiopic sho-ethiopic shwa-ethiopic qa-ethiopic qu-ethiopic qi-ethiopic qaa-ethiopic qee-ethiopic qe-ethiopic qo-ethiopic qoa-ethiopic qwa-ethiopic qwi-ethiopic qwaa-ethiopic qwee-ethiopic qwe-ethiopic qha-ethiopic qhu-ethiopic qhi-ethiopic qhaa-ethiopic qhee-ethiopic qhe-ethiopic qho-ethiopic qhwa-ethiopic qhwi-ethiopic qhwaa-ethiopic qhwee-ethiopic qhwe-ethiopic ba-ethiopic bu-ethiopic bi-ethiopic baa-ethiopic bee-ethiopic be-ethiopic bo-ethiopic bwa-ethiopic va-ethiopic vu-ethiopic vi-ethiopic vaa-ethiopic vee-ethiopic ve-ethiopic vo-ethiopic vwa-ethiopic ta-ethiopic tu-ethiopic ti-ethiopic taa-ethiopic tee-ethiopic te-ethiopic to-ethiopic twa-ethiopic ca-ethiopic cu-ethiopic ci-ethiopic caa-ethiopic cee-ethiopic ce-ethiopic co-ethiopic cwa-ethiopic xa-ethiopic xu-ethiopic xi-ethiopic xaa-ethiopic xee-ethiopic xe-ethiopic xo-ethiopic xoa-ethiopic xwa-ethiopic xwi-ethiopic xwaa-ethiopic xwee-ethiopic xwe-ethiopic na-ethiopic nu-ethiopic ni-ethiopic naa-ethiopic nee-ethiopic ne-ethiopic no-ethiopic nwa-ethiopic nya-ethiopic nyu-ethiopic nyi-ethiopic nyaa-ethiopic nyee-ethiopic nye-ethiopic nyo-ethiopic nywa-ethiopic aGlottal-ethiopic uGlottal-ethiopic iGlottal-ethiopic aaGlottal-ethiopic eeGlottal-ethiopic eGlottal-ethiopic oGlottal-ethiopic waGlottal-ethiopic ka-ethiopic ku-ethiopic ki-ethiopic kaa-ethiopic kee-ethiopic ke-ethiopic ko-ethiopic koa-ethiopic kwa-ethiopic kwi-ethiopic kwaa-ethiopic kwee-ethiopic kwe-ethiopic kxa-ethiopic kxu-ethiopic kxi-ethiopic kxaa-ethiopic kxee-ethiopic kxe-ethiopic kxo-ethiopic kxwa-ethiopic kxwi-ethiopic kxwaa-ethiopic kxwee-ethiopic kxwe-ethiopic wa-ethiopic wu-ethiopic wi-ethiopic waa-ethiopic wee-ethiopic we-ethiopic wo-ethiopic woa-ethiopic aPharyngeal-ethiopic uPharyngeal-ethiopic iPharyngeal-ethiopic aaPharyngeal-ethiopic eePharyngeal-ethiopic ePharyngeal-ethiopic oPharyngeal-ethiopic za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic ya-ethiopic yu-ethiopic yi-ethiopic yaa-ethiopic yee-ethiopic ye-ethiopic yo-ethiopic yoa-ethiopic da-ethiopic du-ethiopic di-ethiopic daa-ethiopic dee-ethiopic de-ethiopic do-ethiopic dwa-ethiopic dda-ethiopic ddu-ethiopic ddi-ethiopic ddaa-ethiopic ddee-ethiopic dde-ethiopic ddo-ethiopic ddwa-ethiopic ja-ethiopic ju-ethiopic ji-ethiopic jaa-ethiopic jee-ethiopic je-ethiopic jo-ethiopic jwa-ethiopic tha-ethiopic thu-ethiopic thi-ethiopic thaa-ethiopic thee-ethiopic the-ethiopic tho-ethiopic thwa-ethiopic cha-ethiopic chu-ethiopic chi-ethiopic chaa-ethiopic chee-ethiopic che-ethiopic cho-ethiopic chwa-ethiopic pha-ethiopic phu-ethiopic phi-ethiopic phaa-ethiopic phee-ethiopic phe-ethiopic pho-ethiopic phwa-ethiopic tsa-ethiopic tsu-ethiopic tsi-ethiopic tsaa-ethiopic tsee-ethiopic tse-ethiopic tso-ethiopic tswa-ethiopic tza-ethiopic tzu-ethiopic tzi-ethiopic tzaa-ethiopic tzee-ethiopic tze-ethiopic tzo-ethiopic tzoa-ethiopic fa-ethiopic fu-ethiopic fi-ethiopic faa-ethiopic fee-ethiopic fe-ethiopic fo-ethiopic fwa-ethiopic pa-ethiopic pu-ethiopic pi-ethiopic paa-ethiopic pee-ethiopic pe-ethiopic po-ethiopic pwa-ethiopic rya-ethiopic oPh.base ba.base da.base fa.base ha.base hha.base la.base ma.base na.base nna.base pa.base ra.base sa.base ta.base tsa.base wa.base ya.base za.base], # Base
+    , # Liga
+    [geminVowellengthcomb-ethiopic geminationcomb-ethiopic vowellengthcomb-ethiopic], # Mark
+    ;
+} GDEF;

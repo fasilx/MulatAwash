@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hat.left" format="2">
+  <anchor x="-97" y="311" name="_hat.left"/>
+  <outline>
+    <contour>
+      <point x="-180" y="309" type="line"/>
+      <point x="-22" y="309" type="line"/>
+      <point x="-21" y="310" type="line"/>
+      <point x="-21" y="331" type="line"/>
+      <point x="-22" y="332" type="line"/>
+      <point x="-180" y="332" type="line"/>
+      <point x="-181" y="331" type="line"/>
+      <point x="-181" y="310" type="line"/>
+    </contour>
+  </outline>
+</glyph>

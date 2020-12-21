@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xe-ethiopic" format="2">
+  <advance width="260"/>
+  <unicode hex="1285"/>
+  <anchor x="127" y="-15" name="haa.acute"/>
+  <anchor x="158" y="453" name="hat"/>
+  <anchor x="46" y="338" name="he"/>
+  <anchor x="149" y="-104" name="hee"/>
+  <anchor x="171" y="-18" name="hi"/>
+  <anchor x="285" y="312" name="hu"/>
+  <outline>
+    <contour>
+      <point x="50" y="354" type="line"/>
+      <point x="17" y="276" type="line"/>
+      <point x="42" y="267" type="line"/>
+      <point x="75" y="345" type="line"/>
+    </contour>
+    <component base="nna.base"/>
+    <component base="_smart.he" xOffset="34" yOffset="-175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nna.base</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>nna.base</string>
+    </dict>
+  </lib>
+</glyph>

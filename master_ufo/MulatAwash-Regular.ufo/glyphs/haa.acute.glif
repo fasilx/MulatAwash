@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haa.acute" format="2">
+  <anchor x="148" y="271" name="_haa.acute"/>
+  <outline>
+    <contour>
+      <point x="-9" y="149" type="curve" smooth="yes"/>
+      <point x="6" y="149"/>
+      <point x="170" y="222"/>
+      <point x="177" y="238" type="curve" smooth="yes"/>
+      <point x="186" y="256"/>
+      <point x="174" y="268"/>
+      <point x="146" y="269" type="curve" smooth="yes"/>
+      <point x="126" y="269"/>
+      <point x="108" y="252"/>
+      <point x="-3" y="170" type="curve" smooth="yes"/>
+      <point x="-24" y="155"/>
+      <point x="-13" y="149"/>
+    </contour>
+  </outline>
+</glyph>

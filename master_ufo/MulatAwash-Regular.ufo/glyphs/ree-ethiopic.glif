@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ree-ethiopic" format="2">
+  <advance width="308"/>
+  <unicode hex="122C"/>
+  <anchor x="296" y="185" name="haa.acute"/>
+  <anchor x="344" y="635" name="hat"/>
+  <anchor x="242" y="117" name="hee"/>
+  <anchor x="190" y="196" name="hi"/>
+  <anchor x="163" y="-75" name="hu"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.hee" xOffset="234" yOffset="-359"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

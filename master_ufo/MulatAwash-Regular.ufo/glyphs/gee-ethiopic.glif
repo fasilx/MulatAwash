@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gee-ethiopic" format="2">
+  <advance width="259"/>
+  <unicode hex="130C"/>
+  <outline>
+    <component base="ga.base"/>
+  </outline>
+</glyph>
