@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="di-ethiopic.etcp" format="2">
+  <advance width="890"/>
+  <anchor x="450" y="168" name="da.cap_1"/>
+  <anchor x="636" y="139" name="da.cap_2"/>
+  <anchor x="836" y="-79" name="haa"/>
+  <anchor x="794" y="937" name="hat"/>
+  <anchor x="975" y="544" name="he"/>
+  <anchor x="827" y="-92" name="hee"/>
+  <anchor x="858" y="-67" name="hi"/>
+  <anchor x="236" y="-52" name="ho"/>
+  <anchor x="882" y="100" name="hu"/>
+  <anchor x="831" y="48" name="hwa"/>
+  <anchor x="805" y="804" name="neck"/>
+  <outline>
+    <component base="da.base.cap"/>
+    <component base="_smart.da.cap" xOffset="890"/>
+    <component base="_smart.hi" xOffset="860" yOffset="-585"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.da.cap</key>
+      <integer>1</integer>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

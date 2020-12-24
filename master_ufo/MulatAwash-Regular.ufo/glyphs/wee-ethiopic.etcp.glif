@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wee-ethiopic.etcp" format="2">
+  <advance width="1154"/>
+  <anchor x="537" y="-8" name="haa"/>
+  <anchor x="557" y="-78" name="haa.acute"/>
+  <anchor x="746" y="928" name="hat"/>
+  <anchor x="776" y="902" name="he.acute"/>
+  <anchor x="572" y="-196" name="hee"/>
+  <anchor x="558" y="-151" name="hi"/>
+  <anchor x="741" y="828" name="ho.ring"/>
+  <anchor x="1010" y="46" name="hu"/>
+  <anchor x="543" y="-39" name="hwa"/>
+  <anchor x="765" y="761" name="neck"/>
+  <outline>
+    <component base="wa.base.cap"/>
+    <component base="_smart.hee" xOffset="544" yOffset="-662"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

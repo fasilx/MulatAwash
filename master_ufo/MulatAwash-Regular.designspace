@@ -20,7 +20,11 @@
     <dict>
       <key>public.skipExportGlyphs</key>
       <array>
+        <string>_number.bars</string>
         <string>_smart.belt</string>
+        <string>_smart.da.cap</string>
+        <string>_smart.gwa</string>
+        <string>_smart.ne</string>
         <string>_smart.ye</string>
       </array>
     </dict>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaPharyngeal-ethiopic.etcp" format="2">
+  <advance width="752"/>
+  <anchor x="530" y="-52" name="haa"/>
+  <anchor x="294" y="-105" name="haa.acute"/>
+  <anchor x="560" y="807" name="he.acute"/>
+  <anchor x="368" y="-228" name="hee"/>
+  <anchor x="345" y="-77" name="hi"/>
+  <anchor x="687" y="175" name="hu"/>
+  <anchor x="396" y="-90" name="hwa"/>
+  <outline>
+    <component base="oPh.base.cap"/>
+    <component base="_smart.haa" xOffset="545" yOffset="-524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ze-ethiopic" format="2">
-  <advance width="295"/>
+  <advance width="332"/>
   <unicode hex="12DD"/>
   <anchor x="190" y="-2" name="haa"/>
   <anchor x="162" y="385" name="he.acute"/>
   <anchor x="195" y="-109" name="hee"/>
   <anchor x="214" y="-8" name="hi"/>
   <anchor x="-9" y="-18" name="ho"/>
-  <anchor x="355" y="289" name="hu"/>
+  <anchor x="292" y="189" name="hu"/>
   <anchor x="212" y="-22" name="hwa"/>
   <anchor x="296" y="363" name="zha"/>
   <outline>

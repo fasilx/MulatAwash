@@ -1,14 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ne-ethiopic" format="2">
-  <advance width="260"/>
+  <advance width="310"/>
   <unicode hex="1295"/>
-  <anchor x="127" y="-15" name="haa.acute"/>
-  <anchor x="158" y="453" name="hat"/>
-  <anchor x="46" y="338" name="he"/>
-  <anchor x="149" y="-104" name="hee"/>
-  <anchor x="171" y="-18" name="hi"/>
-  <anchor x="285" y="312" name="hu"/>
+  <anchor x="216" y="-17" name="gwa"/>
+  <anchor x="192" y="-24" name="haa.acute"/>
+  <anchor x="246" y="568" name="hat"/>
+  <anchor x="161" y="293" name="he"/>
+  <anchor x="204" y="-72" name="hee"/>
+  <anchor x="195" y="-13" name="hi"/>
+  <anchor x="108" y="253" name="ho.ring"/>
+  <anchor x="236" y="246" name="hu"/>
+  <anchor x="256" y="371" name="ne"/>
+  <anchor x="194" y="383" name="neck"/>
   <outline>
-    <component base="nna.base"/>
+    <component base="ga.base"/>
+    <component base="_smart.he" xOffset="139" yOffset="-200"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

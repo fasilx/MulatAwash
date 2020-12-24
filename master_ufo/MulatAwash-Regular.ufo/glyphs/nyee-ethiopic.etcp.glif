@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyee-ethiopic.etcp" format="2">
+  <advance width="706"/>
+  <anchor x="287" y="-90" name="haa.acute"/>
+  <anchor x="400" y="938" name="hat"/>
+  <anchor x="360" y="786" name="he"/>
+  <anchor x="523" y="-62" name="hee"/>
+  <anchor x="490" y="-30" name="hi"/>
+  <anchor x="631" y="442" name="hu"/>
+  <outline>
+    <component base="nna.base.cap"/>
+    <component base="_smart.hat" xOffset="397" yOffset="627"/>
+    <component base="_smart.hee" xOffset="495" yOffset="-528"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.cap</key>
+      <integer>1</integer>
+      <key>_smart.hee.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

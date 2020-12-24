@@ -5,8 +5,8 @@
   <anchor x="158" y="453" name="hat"/>
   <anchor x="46" y="338" name="he"/>
   <anchor x="149" y="-104" name="hee"/>
-  <anchor x="171" y="-18" name="hi"/>
-  <anchor x="285" y="312" name="hu"/>
+  <anchor x="147" y="5" name="hi"/>
+  <anchor x="255" y="232" name="hu"/>
   <outline>
     <contour>
       <point x="174" y="-1" type="curve" smooth="yes"/>

@@ -2,13 +2,23 @@
 <glyph name="no-ethiopic" format="2">
   <advance width="260"/>
   <unicode hex="1296"/>
-  <anchor x="127" y="-15" name="haa.acute"/>
-  <anchor x="158" y="453" name="hat"/>
-  <anchor x="46" y="338" name="he"/>
-  <anchor x="149" y="-104" name="hee"/>
-  <anchor x="171" y="-18" name="hi"/>
-  <anchor x="285" y="312" name="hu"/>
+  <anchor x="199" y="-1" name="haa"/>
+  <anchor x="215" y="426" name="hat"/>
+  <anchor x="22" y="236" name="he"/>
+  <anchor x="162" y="126" name="hi"/>
+  <anchor x="241" y="225" name="ho.ring"/>
+  <anchor x="197" y="12" name="hwa"/>
   <outline>
-    <component base="nna.base"/>
+    <component base="na.base"/>
+    <component base="_smart.haa" xOffset="214" yOffset="-473"/>
+    <component base="_smart.ho.ring" xOffset="240" yOffset="-249"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+      <key>_smart.ho.ring</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

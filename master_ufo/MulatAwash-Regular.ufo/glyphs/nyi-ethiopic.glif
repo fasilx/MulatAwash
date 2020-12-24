@@ -6,15 +6,18 @@
   <anchor x="158" y="453" name="hat"/>
   <anchor x="46" y="338" name="he"/>
   <anchor x="149" y="-104" name="hee"/>
-  <anchor x="171" y="-18" name="hi"/>
-  <anchor x="285" y="312" name="hu"/>
+  <anchor x="147" y="5" name="hi"/>
+  <anchor x="255" y="232" name="hu"/>
   <outline>
     <component base="nna.base"/>
     <component base="_smart.hat" xOffset="155" yOffset="142"/>
+    <component base="_smart.hi" xOffset="149" yOffset="-513"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hi</key>
       <integer>1</integer>
     </dict>
   </lib>

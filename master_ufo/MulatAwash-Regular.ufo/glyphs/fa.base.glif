@@ -2,8 +2,8 @@
 <glyph name="fa.base" format="2">
   <advance width="375"/>
   <anchor x="253" y="-6" name="haa"/>
-  <anchor x="346" y="142" name="hee"/>
-  <anchor x="301" y="171" name="hi"/>
+  <anchor x="346" y="162" name="hee"/>
+  <anchor x="261" y="211" name="hi"/>
   <anchor x="223" y="-69" name="hu"/>
   <outline>
     <contour>

@@ -4,8 +4,8 @@
   <unicode hex="1229"/>
   <anchor x="296" y="185" name="haa.acute"/>
   <anchor x="344" y="635" name="hat"/>
-  <anchor x="242" y="117" name="hee"/>
-  <anchor x="190" y="196" name="hi"/>
+  <anchor x="252" y="117" name="hee"/>
+  <anchor x="200" y="186" name="hi"/>
   <anchor x="163" y="-75" name="hu"/>
   <outline>
     <component base="ra.base"/>

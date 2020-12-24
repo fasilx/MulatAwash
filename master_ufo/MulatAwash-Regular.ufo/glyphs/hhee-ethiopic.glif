@@ -8,14 +8,14 @@
   <anchor x="338" y="460" name="he.acute"/>
   <anchor x="366" y="-114" name="hee"/>
   <anchor x="338" y="326" name="hha.neck"/>
-  <anchor x="404" y="-62" name="hi"/>
+  <anchor x="364" y="8" name="hi"/>
   <anchor x="-3" y="-9" name="ho"/>
-  <anchor x="496" y="227" name="hu"/>
+  <anchor x="462" y="187" name="hu"/>
   <anchor x="355" y="-14" name="hwa"/>
   <outline>
     <component base="hha.base"/>
     <component base="_smart.hha.neck" xOffset="343" yOffset="-39"/>
-    <component base="_smart.hee" xOffset="358" yOffset="-590"/>
+    <component base="_smart.hee" xOffset="338" yOffset="-580"/>
   </outline>
   <lib>
     <dict>

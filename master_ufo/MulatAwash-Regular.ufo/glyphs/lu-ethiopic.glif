@@ -4,13 +4,13 @@
   <unicode hex="1209"/>
   <anchor x="198" y="-1" name="haa"/>
   <anchor x="204" y="-111" name="hee"/>
-  <anchor x="237" y="-55" name="hi"/>
-  <anchor x="364" y="324" name="ho.ring"/>
-  <anchor x="366" y="330" name="hu"/>
+  <anchor x="197" y="5" name="hi"/>
+  <anchor x="324" y="174" name="ho.ring"/>
+  <anchor x="296" y="200" name="hu"/>
   <anchor x="190" y="2" name="hwa"/>
   <outline>
     <component base="la.base"/>
-    <component base="_smart.hu" xOffset="365" yOffset="-187"/>
+    <component base="_smart.hu" xOffset="295" yOffset="-317"/>
   </outline>
   <lib>
     <dict>

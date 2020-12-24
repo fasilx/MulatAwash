@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-ethiopic.etcp" format="2">
+  <advance width="918"/>
+  <outline>
+    <component base="pa.base.cap"/>
+  </outline>
+</glyph>

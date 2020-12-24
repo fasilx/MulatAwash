@@ -1,7 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixty-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="658"/>
   <unicode hex="1377"/>
   <outline>
+    <contour>
+      <point x="217" y="-2" type="line"/>
+      <point x="248" y="1"/>
+      <point x="266" y="3"/>
+      <point x="269" y="5" type="curve"/>
+      <point x="573" y="563" type="line"/>
+      <point x="573" y="568" type="line"/>
+      <point x="569" y="569" type="line"/>
+      <point x="567" y="569" type="line"/>
+      <point x="536" y="566" type="line" smooth="yes"/>
+      <point x="525" y="565"/>
+      <point x="506" y="550"/>
+      <point x="477" y="488" type="curve"/>
+      <point x="207" y="6" type="line"/>
+      <point x="208" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="350" type="line"/>
+      <point x="363" y="202" type="line"/>
+      <point x="413" y="202" type="line"/>
+      <point x="413" y="350" type="line"/>
+    </contour>
+    <component base="minus" xOffset="317" yOffset="350"/>
+    <component base="minus" xOffset="17" yOffset="-211"/>
+    <component base="_number.bars" xOffset="45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
 </glyph>

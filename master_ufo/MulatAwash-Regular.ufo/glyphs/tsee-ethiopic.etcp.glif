@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsee-ethiopic.etcp" format="2">
+  <advance width="630"/>
+  <outline>
+    <component base="tsa.base.cap"/>
+  </outline>
+</glyph>

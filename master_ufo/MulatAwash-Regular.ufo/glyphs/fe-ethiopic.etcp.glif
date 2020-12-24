@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fe-ethiopic.etcp" format="2">
+  <advance width="710"/>
+  <anchor x="623" y="-104" name="haa"/>
+  <anchor x="598" y="867" name="hat"/>
+  <anchor x="211" y="719" name="he"/>
+  <anchor x="713" y="488" name="ho.ring"/>
+  <anchor x="583" y="-101" name="hwa"/>
+  <outline>
+    <component base="na.base.cap"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra-ethiopic.etcp" format="2">
+  <advance width="712"/>
+  <anchor x="768" y="126" name="haa.acute"/>
+  <anchor x="859" y="905" name="hat"/>
+  <anchor x="782" y="64" name="he.acute"/>
+  <anchor x="832" y="98" name="hee"/>
+  <anchor x="613" y="-36" name="hu"/>
+  <outline>
+    <component base="ra.base.cap"/>
+  </outline>
+</glyph>

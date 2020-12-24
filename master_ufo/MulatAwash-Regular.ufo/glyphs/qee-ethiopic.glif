@@ -15,7 +15,7 @@
   <outline>
     <component base="wa.base"/>
     <component base="_smart.neck" xOffset="331" yOffset="-19"/>
-    <component base="_smart.hee" xOffset="252" yOffset="-577"/>
+    <component base="_smart.hee" xOffset="232" yOffset="-567"/>
   </outline>
   <lib>
     <dict>

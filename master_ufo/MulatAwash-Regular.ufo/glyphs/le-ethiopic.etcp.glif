@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="le-ethiopic.etcp" format="2">
+  <advance width="1153"/>
+  <anchor x="1100" y="-24" name="haa"/>
+  <anchor x="1108" y="-122" name="hee"/>
+  <anchor x="1117" y="-56" name="hi"/>
+  <anchor x="1212" y="528" name="ho.ring"/>
+  <anchor x="1135" y="572" name="hu"/>
+  <anchor x="1075" y="-44" name="hwa"/>
+  <outline>
+    <component base="la.base.cap"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>la.base</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>la.base</string>
+    </dict>
+  </lib>
+</glyph>

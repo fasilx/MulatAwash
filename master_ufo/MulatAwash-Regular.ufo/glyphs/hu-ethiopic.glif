@@ -7,11 +7,11 @@
   <anchor x="201" y="-90" name="hee"/>
   <anchor x="119" y="-173" name="hi"/>
   <anchor x="344" y="363" name="ho.ring"/>
-  <anchor x="341" y="239" name="hu"/>
+  <anchor x="304" y="189" name="hu"/>
   <anchor x="188" y="0" name="hwa"/>
   <outline>
     <component base="ha.base"/>
-    <component base="_smart.hu" xOffset="340" yOffset="-278"/>
+    <component base="_smart.hu" xOffset="303" yOffset="-328"/>
   </outline>
   <lib>
     <dict>

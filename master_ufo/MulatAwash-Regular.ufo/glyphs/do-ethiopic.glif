@@ -4,11 +4,11 @@
   <unicode hex="12F6"/>
   <anchor x="172" y="-124" name="haa"/>
   <anchor x="251" y="500" name="hat"/>
-  <anchor x="347" y="192" name="he"/>
+  <anchor x="226" y="192" name="he"/>
   <anchor x="196" y="-175" name="hee"/>
   <anchor x="190" y="-146" name="hi"/>
   <anchor x="2" y="-36" name="ho"/>
-  <anchor x="253" y="-6" name="hu"/>
+  <anchor x="213" y="-36" name="hu"/>
   <anchor x="195" y="-96" name="hwa"/>
   <anchor x="234" y="353" name="neck"/>
   <outline>

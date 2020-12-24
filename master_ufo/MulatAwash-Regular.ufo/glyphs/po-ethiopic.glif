@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="po-ethiopic" format="2">
-  <advance width="117"/>
+  <advance width="187"/>
   <unicode hex="1356"/>
-  <anchor x="77" y="-19" name="haa"/>
-  <anchor x="67" y="-21" name="haa.acute"/>
-  <anchor x="-48" y="74" name="he"/>
-  <anchor x="106" y="-93" name="hee"/>
-  <anchor x="95" y="-14" name="hi"/>
-  <anchor x="154" y="220" name="hu"/>
-  <anchor x="66" y="-8" name="hwa"/>
+  <anchor x="111" y="-19" name="haa"/>
+  <anchor x="101" y="-21" name="haa.acute"/>
+  <anchor x="-14" y="74" name="he"/>
+  <anchor x="140" y="-93" name="hee"/>
+  <anchor x="129" y="-14" name="hi"/>
+  <anchor x="148" y="150" name="hu"/>
+  <anchor x="100" y="-8" name="hwa"/>
   <outline>
     <component base="pa.base"/>
-    <component base="_smart.haa.acute" xOffset="84" yOffset="-246"/>
+    <component base="_smart.haa.acute" xOffset="118" yOffset="-246"/>
   </outline>
   <lib>
     <dict>

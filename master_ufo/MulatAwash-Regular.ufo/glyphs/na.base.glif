@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="na.base" format="2">
   <advance width="260"/>
-  <anchor x="316" y="339" name="ho.ring"/>
+  <anchor x="199" y="-1" name="haa"/>
+  <anchor x="215" y="426" name="hat"/>
+  <anchor x="22" y="236" name="he"/>
+  <anchor x="162" y="126" name="hi"/>
+  <anchor x="241" y="225" name="ho.ring"/>
+  <anchor x="197" y="12" name="hwa"/>
   <outline>
     <contour>
       <point x="241" y="230" type="curve"/>
@@ -56,6 +61,8 @@
   </outline>
   <lib>
     <dict>
+      <key>_smart.ho.ring</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

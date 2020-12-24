@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chee-ethiopic.etcp" format="2">
+  <advance width="1329"/>
+  <anchor x="801" y="-74" name="cha.cap"/>
+  <anchor x="1182" y="-61" name="haa"/>
+  <anchor x="887" y="-23" name="haa.acute"/>
+  <anchor x="1188" y="-159" name="hee"/>
+  <anchor x="1216" y="-96" name="hi"/>
+  <anchor x="428" y="-83" name="ho"/>
+  <anchor x="1380" y="408" name="hu"/>
+  <anchor x="1216" y="-63" name="hwa"/>
+  <anchor x="1158" y="657" name="neck"/>
+  <outline>
+    <component base="hha.base.cap"/>
+    <component base="_smart.hee" xOffset="1160" yOffset="-625"/>
+    <component base="_smart.cha.cap" xOffset="747" yOffset="-314"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.cha.cap</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

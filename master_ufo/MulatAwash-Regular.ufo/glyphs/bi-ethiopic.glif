@@ -6,18 +6,18 @@
   <anchor x="208" y="-13" name="haa"/>
   <anchor x="315" y="526" name="hat"/>
   <anchor x="174" y="546" name="hat.left"/>
-  <anchor x="101" y="84" name="he"/>
+  <anchor x="123" y="157" name="he"/>
   <anchor x="274" y="492" name="he.acute"/>
   <anchor x="216" y="-104" name="hee"/>
-  <anchor x="241" y="-58" name="hi"/>
+  <anchor x="201" y="10" name="hi"/>
   <anchor x="-3" y="-1" name="ho"/>
-  <anchor x="301" y="200" name="hu"/>
+  <anchor x="281" y="170" name="hu"/>
   <anchor x="228" y="-9" name="hwa"/>
   <anchor x="230" y="390" name="ka"/>
   <anchor x="258" y="333" name="neck"/>
   <outline>
     <component base="ba.base"/>
-    <component base="_smart.hi" xOffset="243" yOffset="-576"/>
+    <component base="_smart.hi" xOffset="203" yOffset="-508"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rwa-ethiopic.etcp" format="2">
+  <advance width="712"/>
+  <anchor x="768" y="126" name="haa.acute"/>
+  <anchor x="859" y="905" name="hat"/>
+  <anchor x="782" y="64" name="he.acute"/>
+  <anchor x="832" y="98" name="hee"/>
+  <anchor x="613" y="-36" name="hu"/>
+  <outline>
+    <component base="ra.base.cap"/>
+    <component base="_smart.haa.acute" xOffset="785" yOffset="-99"/>
+    <component base="_smart.hat.left" xOffset="712"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

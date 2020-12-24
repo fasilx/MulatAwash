@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vaa-ethiopic.etcp" format="2">
+  <advance width="1039"/>
+  <anchor x="728" y="494" name="aGl.cap"/>
+  <anchor x="841" y="-112" name="haa"/>
+  <anchor x="1037" y="971" name="hat"/>
+  <anchor x="915" y="973" name="hat.left"/>
+  <anchor x="627" y="289" name="he"/>
+  <anchor x="843" y="-176" name="hee"/>
+  <anchor x="869" y="-144" name="hi"/>
+  <anchor x="394" y="-85" name="ho"/>
+  <anchor x="1068" y="313" name="hu"/>
+  <anchor x="897" y="-164" name="hwa"/>
+  <anchor x="1041" y="771" name="ka.cap"/>
+  <anchor x="1062" y="822" name="neck"/>
+  <outline>
+    <component base="ba.base.cap"/>
+    <component base="_smart.haa" xOffset="856" yOffset="-584"/>
+    <component base="_smart.hat" xOffset="1034" yOffset="660"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.cap</key>
+      <integer>1</integer>
+      <key>_smart.hat.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

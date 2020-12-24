@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nwa-ethiopic.etcp" format="2">
+  <advance width="710"/>
+  <anchor x="623" y="-104" name="haa"/>
+  <anchor x="598" y="867" name="hat"/>
+  <anchor x="211" y="719" name="he"/>
+  <anchor x="713" y="488" name="ho.ring"/>
+  <anchor x="583" y="-101" name="hwa"/>
+  <outline>
+    <component base="na.base.cap"/>
+    <component base="_smart.hwa" xOffset="530" yOffset="-743"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

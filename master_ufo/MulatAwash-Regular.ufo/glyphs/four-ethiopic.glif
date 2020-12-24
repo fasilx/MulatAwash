@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="624"/>
   <unicode hex="136C"/>
   <outline>
+    <component base="zero" xOffset="45"/>
+    <component base="_number.bars" xOffset="45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
 </glyph>

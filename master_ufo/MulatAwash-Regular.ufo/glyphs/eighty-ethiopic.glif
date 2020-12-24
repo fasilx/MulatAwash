@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eighty-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="633"/>
   <unicode hex="1379"/>
   <outline>
+    <component base="one" xOffset="64"/>
+    <component base="one" xOffset="204"/>
+    <component base="minus" xOffset="292" yOffset="340"/>
+    <component base="_number.bars" xOffset="45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>four</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>four</string>
+    </dict>
+  </lib>
 </glyph>
