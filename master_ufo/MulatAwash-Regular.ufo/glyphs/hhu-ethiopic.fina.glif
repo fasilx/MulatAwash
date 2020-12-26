@@ -9,11 +9,11 @@
   <anchor x="563" y="486" name="hha.neck"/>
   <anchor x="602" y="-55" name="hi"/>
   <anchor x="51" y="-16" name="ho"/>
-  <anchor x="793" y="278" name="hu"/>
+  <anchor x="843" y="278" name="hu"/>
   <anchor x="588" y="-24" name="hwa"/>
   <outline>
     <component base="hha.base.001"/>
-    <component base="_smart.hu" xOffset="816" yOffset="-312"/>
+    <component base="_smart.hu" xOffset="866" yOffset="-312"/>
     <component base="_smart.hha.neck" xOffset="585" yOffset="93"/>
   </outline>
   <lib>

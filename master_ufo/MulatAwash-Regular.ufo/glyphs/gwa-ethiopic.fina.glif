@@ -5,15 +5,16 @@
   <anchor x="397" y="-23" name="haa"/>
   <anchor x="325" y="-13" name="haa.acute"/>
   <anchor x="329" y="632" name="hat"/>
-  <anchor x="279" y="354" name="he"/>
+  <anchor x="349" y="354" name="he"/>
   <anchor x="343" y="-192" name="hee"/>
   <anchor x="270" y="-75" name="hi"/>
   <anchor x="268" y="304" name="ho.ring"/>
-  <anchor x="391" y="354" name="hu"/>
+  <anchor x="461" y="278" name="hu"/>
   <anchor x="421" y="541" name="ne"/>
   <anchor x="320" y="470" name="neck.upright"/>
   <anchor x="511" y="22" name="raa.helper"/>
   <anchor x="480" y="54" name="ri.helper"/>
+  <anchor x="356" y="526" name="ring"/>
   <anchor x="307" y="504" name="top"/>
   <outline>
     <component base="ga.base.001"/>

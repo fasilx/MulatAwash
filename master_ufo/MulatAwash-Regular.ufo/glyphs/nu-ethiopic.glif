@@ -8,11 +8,11 @@
   <anchor x="204" y="574" name="he"/>
   <anchor x="346" y="-188" name="hee"/>
   <anchor x="263" y="-45" name="hi"/>
-  <anchor x="399" y="284" name="hu"/>
+  <anchor x="417" y="278" name="hu"/>
   <anchor x="153" y="532" name="nose.ext"/>
   <outline>
     <component base="nna.base"/>
-    <component base="_smart.hu" xOffset="422" yOffset="-306"/>
+    <component base="_smart.hu" xOffset="440" yOffset="-312"/>
   </outline>
   <lib>
     <dict>

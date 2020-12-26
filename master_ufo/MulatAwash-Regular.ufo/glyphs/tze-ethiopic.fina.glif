@@ -13,5 +13,12 @@
   <anchor x="412" y="512" name="top"/>
   <outline>
     <component base="oPh.base.001"/>
+    <component base="_smart.neck" xOffset="477" yOffset="116"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oacute" format="2">
-  <advance width="752"/>
+  <advance width="568"/>
   <unicode hex="00D3"/>
   <note>
 Oacute
 </note>
-  <anchor x="362" y="699" name="top"/>
+  <anchor x="300" y="699" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="acute" xOffset="210" yOffset="180"/>
+    <component base="acute" xOffset="148" yOffset="180"/>
   </outline>
   <lib>
     <dict>

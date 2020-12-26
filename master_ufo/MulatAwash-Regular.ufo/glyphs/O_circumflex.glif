@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ocircumflex" format="2">
-  <advance width="752"/>
+  <advance width="568"/>
   <unicode hex="00D4"/>
   <note>
 Ocircumflex
 </note>
-  <anchor x="362" y="699" name="top"/>
+  <anchor x="300" y="699" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflex" xOffset="112" yOffset="176"/>
+    <component base="circumflex" xOffset="50" yOffset="176"/>
   </outline>
   <lib>
     <dict>

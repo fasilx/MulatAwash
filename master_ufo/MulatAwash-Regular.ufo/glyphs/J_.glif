@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="1243"/>
+  <advance width="1051"/>
   <unicode hex="004A"/>
   <note>
 J
 </note>
   <outline>
-    <component base="_part.curvy.left" xOffset="-1270"/>
+    <component base="_part.curvy.left" xOffset="-1372"/>
   </outline>
   <lib>
     <dict>

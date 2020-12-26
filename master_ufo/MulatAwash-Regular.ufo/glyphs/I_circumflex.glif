@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Icircumflex" format="2">
-  <advance width="600"/>
+  <advance width="645"/>
   <unicode hex="00CE"/>
   <note>
 Icircumflex
 </note>
-  <anchor x="400" y="675" name="top"/>
+  <anchor x="425" y="675" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" xOffset="150" yOffset="152"/>
+    <component base="circumflex" xOffset="175" yOffset="152"/>
   </outline>
   <lib>
     <dict>

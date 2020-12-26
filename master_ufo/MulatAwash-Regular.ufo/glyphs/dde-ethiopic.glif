@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dde-ethiopic" format="2">
-  <advance width="505"/>
+  <advance width="492"/>
   <unicode hex="12FD"/>
-  <anchor x="325" y="-113" name="haa"/>
-  <anchor x="465" y="676" name="hat"/>
-  <anchor x="597" y="355" name="he"/>
-  <anchor x="263" y="-301" name="hee"/>
-  <anchor x="283" y="-164" name="hi"/>
-  <anchor x="51" y="-28" name="ho"/>
-  <anchor x="442" y="-30" name="hu"/>
-  <anchor x="271" y="-118" name="hwa"/>
-  <anchor x="364" y="504" name="neck"/>
+  <anchor x="312" y="-113" name="haa"/>
+  <anchor x="452" y="676" name="hat"/>
+  <anchor x="470" y="355" name="he"/>
+  <anchor x="250" y="-301" name="hee"/>
+  <anchor x="270" y="-164" name="hi"/>
+  <anchor x="38" y="-28" name="ho"/>
+  <anchor x="429" y="-30" name="hu"/>
+  <anchor x="258" y="-118" name="hwa"/>
+  <anchor x="351" y="504" name="neck"/>
   <outline>
     <component base="da.base"/>
-    <component base="_smart.he" xOffset="579" yOffset="-236"/>
-    <component base="_smart.neck" xOffset="374" yOffset="113"/>
+    <component base="_smart.he" xOffset="452" yOffset="-236"/>
+    <component base="_smart.neck" xOffset="361" yOffset="113"/>
   </outline>
   <lib>
     <dict>

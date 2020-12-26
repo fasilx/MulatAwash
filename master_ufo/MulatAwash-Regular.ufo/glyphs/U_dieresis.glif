@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Udieresis" format="2">
-  <advance width="942"/>
+  <advance width="890"/>
   <unicode hex="00DC"/>
   <note>
 Udieresis
 </note>
-  <anchor x="954" y="662" name="top"/>
+  <anchor x="977" y="662" name="top"/>
   <outline>
     <component base="U"/>
     <component base="dotaccent" xOffset="800"/>

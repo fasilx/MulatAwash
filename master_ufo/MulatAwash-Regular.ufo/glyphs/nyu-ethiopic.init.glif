@@ -7,11 +7,11 @@
   <anchor x="76" y="574" name="he"/>
   <anchor x="218" y="-188" name="hee"/>
   <anchor x="135" y="-45" name="hi"/>
-  <anchor x="271" y="284" name="hu"/>
+  <anchor x="311" y="274" name="hu"/>
   <anchor x="25" y="532" name="nose.ext"/>
   <outline>
     <component base="nna.base.002"/>
-    <component base="_smart.hu" xOffset="294" yOffset="-306"/>
+    <component base="_smart.hu" xOffset="334" yOffset="-316"/>
     <component base="_smart.hat" xOffset="143" yOffset="206"/>
   </outline>
   <lib>

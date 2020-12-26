@@ -6,8 +6,8 @@
   <anchor x="400" y="-22" name="haa"/>
   <anchor x="511" y="667" name="hat"/>
   <anchor x="349" y="817" name="hat.left"/>
-  <anchor x="266" y="223" name="he"/>
-  <anchor x="549" y="696" name="he.acute"/>
+  <anchor x="168" y="203" name="he"/>
+  <anchor x="479" y="596" name="he.acute"/>
   <anchor x="412" y="-158" name="hee"/>
   <anchor x="350" y="-27" name="hi"/>
   <anchor x="84" y="-4" name="ho"/>
@@ -18,8 +18,7 @@
   <anchor x="462" y="514" name="top"/>
   <outline>
     <component base="ba.base"/>
-    <component base="_smart.neck" xOffset="485" yOffset="106"/>
-    <component base="_smart.he.acute" xOffset="545" yOffset="226"/>
+    <component base="_smart.he.acute" xOffset="475" yOffset="126"/>
   </outline>
   <lib>
     <dict>

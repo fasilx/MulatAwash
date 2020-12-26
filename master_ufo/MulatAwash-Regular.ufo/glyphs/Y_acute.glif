@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-  <advance width="959"/>
+  <advance width="984"/>
   <unicode hex="00DD"/>
   <note>
 Yacute
 </note>
-  <anchor x="971" y="704" name="top"/>
+  <anchor x="973" y="704" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="acute" xOffset="819" yOffset="185"/>
+    <component base="acute" xOffset="821" yOffset="185"/>
   </outline>
   <lib>
     <dict>

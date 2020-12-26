@@ -5,11 +5,11 @@
   <anchor x="297" y="17" name="haa"/>
   <anchor x="284" y="-12" name="haa.acute"/>
   <anchor x="479" y="879" name="hat"/>
-  <anchor x="429" y="125" name="hee"/>
+  <anchor x="407" y="55" name="hee"/>
   <anchor x="309" y="213" name="hi"/>
   <anchor x="202" y="-57" name="hu"/>
   <anchor x="403" y="42" name="raa.helper"/>
-  <anchor x="348" y="105" name="ri.helper"/>
+  <anchor x="408" y="65" name="ri.helper"/>
   <outline>
     <component base="fa.base"/>
     <component base="_smart.haa" xOffset="291" yOffset="-583"/>

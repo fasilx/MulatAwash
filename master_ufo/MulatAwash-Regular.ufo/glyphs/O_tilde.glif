@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Otilde" format="2">
-  <advance width="752"/>
+  <advance width="568"/>
   <unicode hex="00D5"/>
   <note>
 Otilde
 </note>
-  <anchor x="362" y="699" name="top"/>
+  <anchor x="300" y="699" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="tilde" xOffset="98" yOffset="187"/>
+    <component base="tilde" xOffset="36" yOffset="187"/>
   </outline>
   <lib>
     <dict>

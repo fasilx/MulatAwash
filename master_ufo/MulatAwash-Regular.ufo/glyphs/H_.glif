@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1482"/>
+  <advance width="1406"/>
   <unicode hex="0048"/>
   <note>
 H
 </note>
   <outline>
-    <component base="_part.bar.bigger" xOffset="-575"/>
-    <component base="_part.left.support.001" xOffset="21"/>
-    <component base="_part.curvy.left" xOffset="-1360"/>
+    <component base="_part.bar.bigger" xOffset="-587"/>
+    <component base="_part.left.support.001" xOffset="9"/>
+    <component base="_part.curvy.left" xOffset="-1372"/>
   </outline>
   <lib>
     <dict>

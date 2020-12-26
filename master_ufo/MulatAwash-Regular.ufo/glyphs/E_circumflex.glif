@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflex" format="2">
-  <advance width="815"/>
+  <advance width="729"/>
   <unicode hex="00CA"/>
   <note>
 Ecircumflex
 </note>
-  <anchor x="635" y="744" name="top"/>
+  <anchor x="634" y="744" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="circumflex" xOffset="385" yOffset="221"/>
+    <component base="circumflex" xOffset="384" yOffset="221"/>
   </outline>
 </glyph>

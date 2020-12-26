@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ge-ethiopic" format="2">
-  <advance width="485"/>
+  <advance width="446"/>
   <unicode hex="130D"/>
-  <anchor x="361" y="-41" name="gwa"/>
-  <anchor x="397" y="-23" name="haa"/>
-  <anchor x="325" y="-13" name="haa.acute"/>
-  <anchor x="329" y="632" name="hat"/>
-  <anchor x="279" y="354" name="he"/>
-  <anchor x="343" y="-192" name="hee"/>
-  <anchor x="270" y="-75" name="hi"/>
-  <anchor x="268" y="304" name="ho.ring"/>
-  <anchor x="437" y="274" name="hu"/>
-  <anchor x="421" y="541" name="ne"/>
-  <anchor x="320" y="470" name="neck.upright"/>
-  <anchor x="511" y="22" name="raa.helper"/>
-  <anchor x="480" y="54" name="ri.helper"/>
-  <anchor x="307" y="504" name="top"/>
+  <anchor x="322" y="-41" name="gwa"/>
+  <anchor x="358" y="-23" name="haa"/>
+  <anchor x="286" y="-13" name="haa.acute"/>
+  <anchor x="290" y="632" name="hat"/>
+  <anchor x="350" y="344" name="he"/>
+  <anchor x="304" y="-192" name="hee"/>
+  <anchor x="231" y="-75" name="hi"/>
+  <anchor x="236" y="322" name="ho.ring"/>
+  <anchor x="432" y="274" name="hu"/>
+  <anchor x="382" y="541" name="ne"/>
+  <anchor x="281" y="470" name="neck.upright"/>
+  <anchor x="472" y="22" name="raa.helper"/>
+  <anchor x="441" y="54" name="ri.helper"/>
+  <anchor x="268" y="504" name="top"/>
   <outline>
     <component base="ga.base"/>
-    <component base="_smart.ho.ring" xOffset="257" yOffset="-224"/>
+    <component base="_smart.ho.ring" xOffset="225" yOffset="-206"/>
   </outline>
   <lib>
     <dict>

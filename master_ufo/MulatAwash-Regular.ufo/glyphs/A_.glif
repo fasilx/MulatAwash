@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1300"/>
+  <advance width="1245"/>
   <unicode hex="0041"/>
   <note>
 A
 </note>
-  <anchor x="859" y="666" name="top"/>
+  <anchor x="872" y="666" name="top"/>
   <outline>
-    <component base="_part.curvy.left" xOffset="-1385"/>
-    <component base="_part.middle.bar" xOffset="-382" yOffset="-140"/>
-    <component base="_part.right.support" xOffset="7"/>
+    <component base="_part.curvy.left" xOffset="-1372"/>
+    <component base="_part.middle.bar" xOffset="-369" yOffset="-140"/>
+    <component base="_part.right.support" xOffset="20"/>
   </outline>
   <lib>
     <dict>

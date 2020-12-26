@@ -13,5 +13,12 @@
   <anchor x="412" y="512" name="top"/>
   <outline>
     <component base="oPh.base.001"/>
+    <component base="_smart.hwa" xOffset="100" yOffset="-813"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

@@ -13,5 +13,12 @@
   <anchor x="412" y="512" name="top"/>
   <outline>
     <component base="oPh.base.001"/>
+    <component base="_smart.haa.acute" xOffset="196" yOffset="-446"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

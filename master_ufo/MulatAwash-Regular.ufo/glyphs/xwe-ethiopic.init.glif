@@ -7,15 +7,18 @@
   <anchor x="76" y="574" name="he"/>
   <anchor x="218" y="-188" name="hee"/>
   <anchor x="135" y="-45" name="hi"/>
-  <anchor x="271" y="284" name="hu"/>
+  <anchor x="311" y="274" name="hu"/>
   <anchor x="25" y="532" name="nose.ext"/>
   <outline>
     <component base="nna.base.002"/>
     <component base="_smart.gwa" xOffset="190" yOffset="-474"/>
+    <component base="_smart.he" xOffset="58" yOffset="-17"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.gwa</key>
+      <integer>1</integer>
+      <key>_smart.he</key>
       <integer>1</integer>
     </dict>
   </lib>
