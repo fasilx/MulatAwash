@@ -7,6 +7,6 @@ Ccedilla
 </note>
   <outline>
     <component base="C"/>
-    <component base="cedilla" xOffset="180" yOffset="-95"/>
+    <component base="cedilla" xOffset="232" yOffset="-216"/>
   </outline>
 </glyph>

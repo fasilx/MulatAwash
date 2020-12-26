@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sectionmark-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="702"/>
   <unicode hex="1360"/>
   <outline>
+    <component base="colon" xOffset="160"/>
+    <component base="colon" xScale="-0.34202" xyScale="0.93969" yxScale="-0.93969" yScale="-0.34202" xOffset="579" yOffset="145"/>
   </outline>
 </glyph>

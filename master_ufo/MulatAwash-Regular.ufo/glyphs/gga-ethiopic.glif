@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gga-ethiopic" format="2">
-  <advance width="310"/>
+  <advance width="485"/>
   <unicode hex="1318"/>
-  <anchor x="216" y="-17" name="gwa"/>
-  <anchor x="192" y="-24" name="haa.acute"/>
-  <anchor x="246" y="568" name="hat"/>
-  <anchor x="161" y="293" name="he"/>
-  <anchor x="204" y="-72" name="hee"/>
-  <anchor x="195" y="-13" name="hi"/>
-  <anchor x="108" y="253" name="ho.ring"/>
-  <anchor x="236" y="246" name="hu"/>
-  <anchor x="256" y="371" name="ne"/>
-  <anchor x="194" y="383" name="neck"/>
+  <anchor x="361" y="-41" name="gwa"/>
+  <anchor x="397" y="-23" name="haa"/>
+  <anchor x="325" y="-13" name="haa.acute"/>
+  <anchor x="329" y="632" name="hat"/>
+  <anchor x="279" y="354" name="he"/>
+  <anchor x="343" y="-192" name="hee"/>
+  <anchor x="270" y="-75" name="hi"/>
+  <anchor x="268" y="304" name="ho.ring"/>
+  <anchor x="437" y="274" name="hu"/>
+  <anchor x="421" y="541" name="ne"/>
+  <anchor x="320" y="470" name="neck.upright"/>
+  <anchor x="511" y="22" name="raa.helper"/>
+  <anchor x="480" y="54" name="ri.helper"/>
+  <anchor x="307" y="504" name="top"/>
   <outline>
     <component base="ga.base"/>
-    <component base="_smart.neck" xOffset="188" yOffset="19"/>
-    <component base="_smart.hat" xOffset="243" yOffset="257"/>
+    <component base="_smart.hat" xOffset="331" yOffset="251"/>
+    <component base="_smart.neck.upright" xOffset="321" yOffset="66"/>
   </outline>
   <lib>
     <dict>

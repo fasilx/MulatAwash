@@ -1,41 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onesuperior" format="2">
-  <advance width="246"/>
+  <advance width="378"/>
   <unicode hex="00B9"/>
   <note>
 onesuperior
 </note>
   <outline>
-    <contour>
-      <point x="49" y="244" type="curve" smooth="yes"/>
-      <point x="69" y="244"/>
-      <point x="81.667" y="248"/>
-      <point x="87" y="256" type="curve" smooth="yes"/>
-      <point x="107.667" y="293.333"/>
-      <point x="137.167" y="350.5"/>
-      <point x="175.5" y="427.5" type="curve" smooth="yes"/>
-      <point x="213.833" y="504.5"/>
-      <point x="243.667" y="562.333"/>
-      <point x="265" y="601" type="curve"/>
-      <point x="268.448" y="625.136"/>
-      <point x="243.593" y="632.026"/>
-      <point x="211" y="594" type="curve"/>
-      <point x="161.667" y="544.667"/>
-      <point x="127.667" y="513"/>
-      <point x="109" y="499" type="curve" smooth="yes"/>
-      <point x="93" y="487" type="line"/>
-      <point x="79.667" y="472.333"/>
-      <point x="80" y="464.667"/>
-      <point x="104" y="478" type="curve"/>
-      <point x="112" y="484"/>
-      <point x="125.167" y="492.333"/>
-      <point x="143.5" y="503" type="curve" smooth="yes"/>
-      <point x="161.833" y="513.667"/>
-      <point x="174.333" y="521.667"/>
-      <point x="181" y="527" type="curve"/>
-      <point x="32" y="250" type="line"/>
-      <point x="32" y="246"/>
-      <point x="37.667" y="244"/>
-    </contour>
+    <component base="one.inferior" yOffset="230"/>
   </outline>
 </glyph>

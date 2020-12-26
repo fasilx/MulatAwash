@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qaa-ethiopic" format="2">
-  <advance width="525"/>
+  <advance width="743"/>
   <unicode hex="1243"/>
-  <anchor x="203" y="10" name="haa"/>
-  <anchor x="186" y="-20" name="haa.acute"/>
-  <anchor x="375" y="509" name="hat"/>
-  <anchor x="337" y="479" name="he.acute"/>
-  <anchor x="260" y="-101" name="hee"/>
-  <anchor x="176" y="-161" name="hi"/>
-  <anchor x="355" y="393" name="ho.ring"/>
-  <anchor x="508" y="228" name="hu"/>
-  <anchor x="190" y="2" name="hwa"/>
-  <anchor x="337" y="345" name="neck"/>
+  <anchor x="359" y="8" name="haa"/>
+  <anchor x="354" y="-38" name="haa.acute"/>
+  <anchor x="667" y="696" name="hat"/>
+  <anchor x="640" y="711" name="he.acute"/>
+  <anchor x="375" y="-199" name="hee"/>
+  <anchor x="279" y="-112" name="hi"/>
+  <anchor x="627" y="582" name="ho.ring"/>
+  <anchor x="763" y="275" name="hu"/>
+  <anchor x="360" y="-5" name="hwa"/>
+  <anchor x="550" y="510" name="neck"/>
+  <anchor x="675" y="512" name="top"/>
   <outline>
     <component base="wa.base"/>
-    <component base="_smart.neck" xOffset="331" yOffset="-19"/>
-    <component base="_smart.haa.acute" xOffset="203" yOffset="-245"/>
+    <component base="_smart.neck" xOffset="560" yOffset="119"/>
+    <component base="_smart.haa.acute" xOffset="337" yOffset="-427"/>
   </outline>
   <lib>
     <dict>

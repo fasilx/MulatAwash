@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhwa-ethiopic.fina" format="2">
+  <advance width="892"/>
+  <anchor x="287" y="9" name="cha"/>
+  <anchor x="655" y="-13" name="haa"/>
+  <anchor x="405" y="6" name="haa.acute"/>
+  <anchor x="653" y="687" name="he.acute"/>
+  <anchor x="625" y="-194" name="hee"/>
+  <anchor x="563" y="486" name="hha.neck"/>
+  <anchor x="602" y="-55" name="hi"/>
+  <anchor x="51" y="-16" name="ho"/>
+  <anchor x="793" y="278" name="hu"/>
+  <anchor x="588" y="-24" name="hwa"/>
+  <outline>
+    <component base="hha.base.001"/>
+    <component base="_smart.hha.neck" xOffset="585" yOffset="93"/>
+    <component base="_smart.hwa" xOffset="512" yOffset="-802"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hha.neck</key>
+      <integer>1</integer>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

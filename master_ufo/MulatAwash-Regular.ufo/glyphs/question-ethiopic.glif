@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="338"/>
   <unicode hex="1367"/>
   <outline>
+    <component base="colon"/>
+    <component base="period" xOffset="10" yOffset="110"/>
   </outline>
 </glyph>

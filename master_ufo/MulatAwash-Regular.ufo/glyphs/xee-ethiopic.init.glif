@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xee-ethiopic.init" format="2">
+  <advance width="245"/>
+  <anchor x="189" y="-31" name="gwa"/>
+  <anchor x="145" y="-15" name="haa.acute"/>
+  <anchor x="141" y="587" name="hat"/>
+  <anchor x="76" y="574" name="he"/>
+  <anchor x="218" y="-188" name="hee"/>
+  <anchor x="135" y="-45" name="hi"/>
+  <anchor x="271" y="284" name="hu"/>
+  <anchor x="25" y="532" name="nose.ext"/>
+  <outline>
+    <component base="nna.base.002"/>
+    <component base="_smart.he" xOffset="58" yOffset="-17"/>
+    <component base="_smart.hee" xOffset="177" yOffset="-709"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oPharyngeal-ethiopic.etcp" format="2">
   <advance width="752"/>
+  <anchor x="413" y="335" name="belt.cap"/>
   <anchor x="530" y="-52" name="haa"/>
   <anchor x="294" y="-105" name="haa.acute"/>
   <anchor x="560" y="807" name="he.acute"/>
-  <anchor x="368" y="-228" name="hee"/>
-  <anchor x="345" y="-77" name="hi"/>
+  <anchor x="368" y="-265" name="hee"/>
+  <anchor x="205" y="-157" name="hi"/>
   <anchor x="687" y="175" name="hu"/>
   <anchor x="396" y="-90" name="hwa"/>
   <outline>
     <component base="oPh.base.cap"/>
-    <component base="_smart.haa.acute" xOffset="311" yOffset="-330"/>
+    <component base="_smart.haa.acute" xOffset="277" yOffset="-494"/>
   </outline>
   <lib>
     <dict>

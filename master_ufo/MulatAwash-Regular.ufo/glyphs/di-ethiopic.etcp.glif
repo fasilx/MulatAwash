@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="di-ethiopic.etcp" format="2">
-  <advance width="890"/>
-  <anchor x="450" y="168" name="da.cap_1"/>
-  <anchor x="636" y="139" name="da.cap_2"/>
-  <anchor x="836" y="-79" name="haa"/>
-  <anchor x="794" y="937" name="hat"/>
-  <anchor x="975" y="544" name="he"/>
-  <anchor x="827" y="-92" name="hee"/>
-  <anchor x="858" y="-67" name="hi"/>
-  <anchor x="236" y="-52" name="ho"/>
-  <anchor x="882" y="100" name="hu"/>
-  <anchor x="831" y="48" name="hwa"/>
-  <anchor x="805" y="804" name="neck"/>
+  <advance width="1213"/>
+  <anchor x="680" y="98" name="da.cap"/>
+  <anchor x="977" y="-19" name="haa"/>
+  <anchor x="1014" y="923" name="hat"/>
+  <anchor x="1093" y="544" name="he"/>
+  <anchor x="972" y="-255" name="hee"/>
+  <anchor x="928" y="-67" name="hi"/>
+  <anchor x="396" y="-52" name="ho"/>
+  <anchor x="1042" y="100" name="hu"/>
+  <anchor x="921" y="18" name="hwa"/>
+  <anchor x="925" y="744" name="neck"/>
   <outline>
     <component base="da.base.cap"/>
-    <component base="_smart.da.cap" xOffset="890"/>
-    <component base="_smart.hi" xOffset="860" yOffset="-585"/>
+    <component base="_smart.da.cap" xOffset="936" yOffset="-148"/>
+    <component base="_smart.hi" xOffset="954" yOffset="-691"/>
   </outline>
   <lib>
     <dict>

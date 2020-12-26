@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="di-ethiopic" format="2">
-  <advance width="335"/>
+  <advance width="505"/>
   <unicode hex="12F2"/>
-  <anchor x="172" y="-124" name="haa"/>
-  <anchor x="251" y="500" name="hat"/>
-  <anchor x="226" y="192" name="he"/>
-  <anchor x="196" y="-175" name="hee"/>
-  <anchor x="190" y="-146" name="hi"/>
-  <anchor x="2" y="-36" name="ho"/>
-  <anchor x="213" y="-36" name="hu"/>
-  <anchor x="195" y="-96" name="hwa"/>
-  <anchor x="234" y="353" name="neck"/>
+  <anchor x="325" y="-113" name="haa"/>
+  <anchor x="465" y="676" name="hat"/>
+  <anchor x="597" y="355" name="he"/>
+  <anchor x="263" y="-301" name="hee"/>
+  <anchor x="283" y="-164" name="hi"/>
+  <anchor x="51" y="-28" name="ho"/>
+  <anchor x="442" y="-30" name="hu"/>
+  <anchor x="271" y="-118" name="hwa"/>
+  <anchor x="364" y="504" name="neck"/>
   <outline>
     <component base="da.base"/>
-    <component base="_smart.hi" xOffset="192" yOffset="-664"/>
+    <component base="_smart.hi" xOffset="309" yOffset="-788"/>
   </outline>
   <lib>
     <dict>

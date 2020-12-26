@@ -5,8 +5,9 @@
   <note>
 Edieresis
 </note>
+  <anchor x="635" y="744" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="dieresis" xOffset="593" yOffset="425"/>
+    <component base="dieresis" xOffset="490" yOffset="233"/>
   </outline>
 </glyph>

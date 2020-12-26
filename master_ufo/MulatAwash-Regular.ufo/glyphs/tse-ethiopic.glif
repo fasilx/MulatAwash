@@ -1,19 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tse-ethiopic" format="2">
-  <advance width="300"/>
+  <advance width="474"/>
   <unicode hex="133D"/>
-  <anchor x="185" y="-128" name="haa"/>
-  <anchor x="183" y="485" name="hat"/>
-  <anchor x="290" y="218" name="he"/>
-  <anchor x="132" y="-205" name="hee"/>
-  <anchor x="135" y="-116" name="hi"/>
-  <anchor x="-30" y="-123" name="ho"/>
-  <anchor x="173" y="-67" name="hu"/>
-  <anchor x="151" y="-118" name="hwa"/>
-  <anchor x="204" y="355" name="neck"/>
+  <anchor x="450" y="-109" name="haa"/>
+  <anchor x="307" y="760" name="hat"/>
+  <anchor x="567" y="310" name="he"/>
+  <anchor x="544" y="-295" name="hee"/>
+  <anchor x="425" y="-62" name="hi"/>
+  <anchor x="267" y="-82" name="ho"/>
+  <anchor x="497" y="102" name="hu"/>
+  <anchor x="406" y="-103" name="hwa"/>
+  <anchor x="438" y="515" name="neck"/>
+  <anchor x="465" y="-217" name="tswa"/>
   <outline>
     <component base="tsa.base"/>
-    <component base="_smart.he" xOffset="268" yOffset="-275"/>
+    <component base="_smart.he" xOffset="549" yOffset="-281"/>
   </outline>
   <lib>
     <dict>

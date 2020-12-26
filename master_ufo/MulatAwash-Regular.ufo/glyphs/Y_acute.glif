@@ -5,9 +5,10 @@
   <note>
 Yacute
 </note>
+  <anchor x="971" y="704" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="acute" xOffset="802" yOffset="442"/>
+    <component base="acute" xOffset="819" yOffset="185"/>
   </outline>
   <lib>
     <dict>

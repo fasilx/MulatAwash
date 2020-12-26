@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhaa-ethiopic" format="2">
-  <advance width="332"/>
+  <advance width="438"/>
   <unicode hex="12E3"/>
-  <anchor x="190" y="-2" name="haa"/>
-  <anchor x="162" y="385" name="he.acute"/>
-  <anchor x="195" y="-109" name="hee"/>
-  <anchor x="214" y="-8" name="hi"/>
-  <anchor x="-9" y="-18" name="ho"/>
-  <anchor x="292" y="189" name="hu"/>
-  <anchor x="212" y="-22" name="hwa"/>
-  <anchor x="296" y="363" name="zha"/>
+  <anchor x="279" y="-3" name="haa"/>
+  <anchor x="232" y="538" name="he.acute"/>
+  <anchor x="312" y="-173" name="hee"/>
+  <anchor x="250" y="-62" name="hi"/>
+  <anchor x="75" y="3" name="ho"/>
+  <anchor x="477" y="274" name="hu"/>
+  <anchor x="226" y="-33" name="hwa"/>
+  <anchor x="403" y="561" name="zha"/>
   <outline>
     <component base="za.base"/>
-    <component base="_smart.haa" xOffset="205" yOffset="-474"/>
-    <component base="_smart.zha" xOffset="242" yOffset="123"/>
+    <component base="_smart.haa" xOffset="273" yOffset="-603"/>
+    <component base="_smart.zha" xOffset="413" yOffset="260"/>
   </outline>
   <lib>
     <dict>

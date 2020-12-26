@@ -1,26 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xe-ethiopic" format="2">
-  <advance width="260"/>
+  <advance width="373"/>
   <unicode hex="1285"/>
-  <anchor x="127" y="-15" name="haa.acute"/>
-  <anchor x="158" y="453" name="hat"/>
-  <anchor x="46" y="338" name="he"/>
-  <anchor x="149" y="-104" name="hee"/>
-  <anchor x="147" y="5" name="hi"/>
-  <anchor x="255" y="232" name="hu"/>
+  <anchor x="317" y="-31" name="gwa"/>
+  <anchor x="273" y="-15" name="haa.acute"/>
+  <anchor x="269" y="587" name="hat"/>
+  <anchor x="204" y="574" name="he"/>
+  <anchor x="346" y="-188" name="hee"/>
+  <anchor x="263" y="-45" name="hi"/>
+  <anchor x="399" y="284" name="hu"/>
+  <anchor x="153" y="532" name="nose.ext"/>
   <outline>
-    <contour>
-      <point x="50" y="354" type="line"/>
-      <point x="17" y="276" type="line"/>
-      <point x="42" y="267" type="line"/>
-      <point x="75" y="345" type="line"/>
-    </contour>
     <component base="nna.base"/>
-    <component base="_smart.he" xOffset="34" yOffset="-175"/>
+    <component base="_smart.he" xOffset="186" yOffset="-17"/>
+    <component base="_smart.nose.ext" xOffset="151" yOffset="1"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.he</key>
+      <integer>1</integer>
+      <key>_smart.nose.ext</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>nna.base</string>

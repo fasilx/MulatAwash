@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="543"/>
   <unicode hex="1362"/>
   <outline>
+    <component base="colon"/>
+    <component base="colon" xOffset="220"/>
   </outline>
 </glyph>

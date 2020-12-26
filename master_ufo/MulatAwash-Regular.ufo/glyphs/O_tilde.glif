@@ -5,9 +5,10 @@
   <note>
 Otilde
 </note>
+  <anchor x="362" y="699" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="tilde" xOffset="328" yOffset="418"/>
+    <component base="tilde" xOffset="98" yOffset="187"/>
   </outline>
   <lib>
     <dict>

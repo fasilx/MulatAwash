@@ -1,7 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gi-ethiopic.etcp" format="2">
-  <advance width="706"/>
+  <advance width="600"/>
+  <anchor x="427" y="-62" name="gwa"/>
+  <anchor x="354" y="-66" name="haa.acute"/>
+  <anchor x="501" y="840" name="hat"/>
+  <anchor x="429" y="512" name="he"/>
+  <anchor x="418" y="-244" name="hee"/>
+  <anchor x="388" y="-80" name="hi"/>
+  <anchor x="228" y="368" name="ho.ring"/>
+  <anchor x="490" y="398" name="hu"/>
+  <anchor x="420" y="671" name="neck"/>
   <outline>
     <component base="ga.base.cap"/>
+    <component base="_smart.hi" xOffset="414" yOffset="-704"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

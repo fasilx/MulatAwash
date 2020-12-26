@@ -5,8 +5,9 @@
   <note>
 Egrave
 </note>
+  <anchor x="635" y="744" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="grave" xOffset="678" yOffset="388"/>
+    <component base="grave" xOffset="534" yOffset="232"/>
   </outline>
 </glyph>

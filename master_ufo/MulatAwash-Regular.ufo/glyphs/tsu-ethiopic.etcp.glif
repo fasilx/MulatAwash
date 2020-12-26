@@ -1,7 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tsu-ethiopic.etcp" format="2">
-  <advance width="630"/>
+  <advance width="895"/>
+  <anchor x="702" y="-173" name="haa"/>
+  <anchor x="726" y="865" name="hat"/>
+  <anchor x="783" y="358" name="he"/>
+  <anchor x="773" y="-325" name="hee"/>
+  <anchor x="479" y="-268" name="hi"/>
+  <anchor x="245" y="-136" name="ho"/>
+  <anchor x="728" y="-54" name="hu"/>
+  <anchor x="683" y="714" name="neck"/>
+  <anchor x="541" y="699" name="top"/>
+  <anchor x="492" y="-324" name="tswa"/>
   <outline>
     <component base="tsa.base.cap"/>
+    <component base="_smart.hu" xOffset="751" yOffset="-644"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pi-ethiopic.etcp" format="2">
   <advance width="918"/>
+  <anchor x="729" y="-10" name="haa"/>
+  <anchor x="611" y="-93" name="haa.acute"/>
+  <anchor x="598" y="-265" name="hee"/>
+  <anchor x="561" y="-113" name="hi"/>
+  <anchor x="924" y="308" name="hu"/>
+  <anchor x="615" y="-116" name="hwa"/>
   <outline>
     <component base="pa.base.cap"/>
+    <component base="_smart.hi" xOffset="587" yOffset="-737"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

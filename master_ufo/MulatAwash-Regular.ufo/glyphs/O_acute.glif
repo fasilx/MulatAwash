@@ -5,9 +5,10 @@
   <note>
 Oacute
 </note>
+  <anchor x="362" y="699" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="acute" xOffset="448" yOffset="401"/>
+    <component base="acute" xOffset="210" yOffset="180"/>
   </outline>
   <lib>
     <dict>

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="prefacecolon-ethiopic" format="2">
-  <advance width="600"/>
+  <advance width="432"/>
   <unicode hex="1366"/>
   <outline>
+    <component base="colon"/>
+    <component base="macron" xOffset="-50" yOffset="-300"/>
   </outline>
 </glyph>

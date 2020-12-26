@@ -1,141 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threeeighths" format="2">
-  <advance width="683"/>
+  <advance width="796"/>
   <unicode hex="215C"/>
   <note>
 threeeighths
 </note>
   <outline>
-    <contour>
-      <point x="60" y="-5" type="curve" smooth="yes"/>
-      <point x="70" y="-15"/>
-      <point x="116.667" y="27.667"/>
-      <point x="200" y="123" type="curve" smooth="yes"/>
-      <point x="282.437" y="219.177"/>
-      <point x="362.337" y="313.806"/>
-      <point x="462.5" y="442" type="curve" smooth="yes"/>
-      <point x="590" y="601.5" type="line" smooth="yes"/>
-      <point x="596" y="609.167"/>
-      <point x="593" y="614.333"/>
-      <point x="581" y="617" type="curve" smooth="yes"/>
-      <point x="577.667" y="617.667"/>
-      <point x="572.5" y="618"/>
-      <point x="565.5" y="618" type="curve" smooth="yes"/>
-      <point x="558.5" y="618"/>
-      <point x="551.667" y="614"/>
-      <point x="545" y="606" type="curve" smooth="yes"/>
-      <point x="486.333" y="524.667"/>
-      <point x="171.667" y="130.333"/>
-      <point x="65" y="9" type="curve" smooth="yes"/>
-      <point x="59" y="2.333"/>
-      <point x="57.333" y="-2.333"/>
-    </contour>
-    <contour>
-      <point x="446" y="15" type="curve" smooth="yes"/>
-      <point x="421.333" y="15"/>
-      <point x="409" y="28"/>
-      <point x="409" y="54" type="curve" smooth="yes"/>
-      <point x="409" y="97.333"/>
-      <point x="441" y="142.333"/>
-      <point x="505" y="189" type="curve"/>
-      <point x="534.744" y="121.753"/>
-      <point x="536.546" y="77.436"/>
-      <point x="504" y="41.5" type="curve" smooth="yes"/>
-      <point x="488" y="23.833"/>
-      <point x="468.667" y="15"/>
-    </contour>
-    <contour>
-      <point x="68" y="243" type="curve" smooth="yes"/>
-      <point x="161.333" y="243"/>
-      <point x="262" y="324.333"/>
-      <point x="262" y="403" type="curve" smooth="yes"/>
-      <point x="262" y="437"/>
-      <point x="240.333" y="457.333"/>
-      <point x="197" y="464" type="curve"/>
-      <point x="276.333" y="496.667"/>
-      <point x="316" y="535"/>
-      <point x="316" y="579" type="curve" smooth="yes"/>
-      <point x="316" y="609.667"/>
-      <point x="292.333" y="624"/>
-      <point x="259" y="624" type="curve" smooth="yes"/>
-      <point x="217" y="624"/>
-      <point x="176" y="599.333"/>
-      <point x="136" y="550" type="curve"/>
-      <point x="133.333" y="534"/>
-      <point x="142.333" y="535"/>
-      <point x="149" y="543" type="curve" smooth="yes"/>
-      <point x="177" y="575"/>
-      <point x="203.333" y="591"/>
-      <point x="228" y="591" type="curve" smooth="yes"/>
-      <point x="240" y="591"/>
-      <point x="254" y="584.333"/>
-      <point x="254" y="575" type="curve" smooth="yes"/>
-      <point x="254" y="513.667"/>
-      <point x="177" y="458"/>
-      <point x="117" y="446" type="curve"/>
-      <point x="112.333" y="444"/>
-      <point x="110.333" y="441.333"/>
-      <point x="111" y="438" type="curve" smooth="yes"/>
-      <point x="111.667" y="430.667"/>
-      <point x="123.333" y="430.667"/>
-      <point x="146" y="438" type="curve" smooth="yes"/>
-      <point x="180.278" y="451.711"/>
-      <point x="208" y="450.343"/>
-      <point x="208" y="410" type="curve" smooth="yes"/>
-      <point x="208" y="343.333"/>
-      <point x="137.333" y="259"/>
-      <point x="64" y="259" type="curve" smooth="yes"/>
-      <point x="44" y="259"/>
-      <point x="23.667" y="274.333"/>
-      <point x="17" y="293" type="curve"/>
-      <point x="8.333" y="296.333"/>
-      <point x="4" y="296.167"/>
-      <point x="4" y="292.5" type="curve" smooth="yes"/>
-      <point x="4" y="288.833"/>
-      <point x="5" y="284.667"/>
-      <point x="7" y="280" type="curve" smooth="yes"/>
-      <point x="16.333" y="255.333"/>
-      <point x="36.667" y="243"/>
-    </contour>
-    <contour>
-      <point x="453" y="-7" type="curve" smooth="yes"/>
-      <point x="519.667" y="-7"/>
-      <point x="588" y="52"/>
-      <point x="588" y="108" type="curve" smooth="yes"/>
-      <point x="588" y="136"/>
-      <point x="584.333" y="161"/>
-      <point x="577" y="183" type="curve"/>
-      <point x="639" y="237"/>
-      <point x="670" y="282.167"/>
-      <point x="670" y="318.5" type="curve" smooth="yes"/>
-      <point x="670" y="354.833"/>
-      <point x="645.333" y="373"/>
-      <point x="596" y="373" type="curve" smooth="yes"/>
-      <point x="546.667" y="373"/>
-      <point x="489" y="322.333"/>
-      <point x="489" y="265" type="curve" smooth="yes"/>
-      <point x="489" y="247.667"/>
-      <point x="492.333" y="231.333"/>
-      <point x="499" y="216" type="curve"/>
-      <point x="415" y="156"/>
-      <point x="373" y="104"/>
-      <point x="373" y="60" type="curve" smooth="yes"/>
-      <point x="373" y="18.667"/>
-      <point x="409" y="-7"/>
-    </contour>
-    <contour>
-      <point x="571" y="204" type="curve"/>
-      <point x="545.957" y="261.599"/>
-      <point x="543.796" y="297.195"/>
-      <point x="569" y="324.5" type="curve" smooth="yes"/>
-      <point x="581" y="337.5"/>
-      <point x="595" y="344"/>
-      <point x="611" y="344" type="curve" smooth="yes"/>
-      <point x="629.667" y="344"/>
-      <point x="639" y="334.333"/>
-      <point x="639" y="315" type="curve" smooth="yes"/>
-      <point x="639" y="278.333"/>
-      <point x="616.333" y="241.333"/>
-    </contour>
+    <component base="three.inferior" xOffset="130" yOffset="320"/>
+    <component base="fraction" xOffset="36"/>
+    <component base="eight.inferior" xOffset="559"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>three.inferior</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>fraction</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>fraction</string>
+    </dict>
+  </lib>
 </glyph>

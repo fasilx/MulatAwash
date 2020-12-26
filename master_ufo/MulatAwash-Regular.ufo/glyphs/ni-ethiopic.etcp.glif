@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ni-ethiopic.etcp" format="2">
-  <advance width="706"/>
-  <anchor x="287" y="-90" name="haa.acute"/>
-  <anchor x="400" y="938" name="hat"/>
-  <anchor x="360" y="786" name="he"/>
-  <anchor x="523" y="-62" name="hee"/>
-  <anchor x="490" y="-30" name="hi"/>
-  <anchor x="631" y="442" name="hu"/>
+  <advance width="600"/>
+  <anchor x="404" y="-42" name="gwa"/>
+  <anchor x="347" y="-20" name="haa.acute"/>
+  <anchor x="450" y="868" name="hat"/>
+  <anchor x="304" y="910" name="hat.left"/>
+  <anchor x="389" y="818" name="he"/>
+  <anchor x="503" y="-202" name="hee"/>
+  <anchor x="310" y="-100" name="hi"/>
+  <anchor x="531" y="442" name="hu"/>
+  <anchor x="311" y="813" name="nose.ext"/>
   <outline>
     <component base="nna.base.cap"/>
-    <component base="_smart.hi" xOffset="492" yOffset="-548"/>
+    <component base="_smart.hi" xOffset="336" yOffset="-724"/>
   </outline>
   <lib>
     <dict>

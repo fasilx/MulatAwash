@@ -4,16 +4,17 @@
   <anchor x="801" y="-74" name="cha.cap"/>
   <anchor x="1182" y="-61" name="haa"/>
   <anchor x="887" y="-23" name="haa.acute"/>
-  <anchor x="1188" y="-159" name="hee"/>
-  <anchor x="1216" y="-96" name="hi"/>
+  <anchor x="1226" y="856" name="he.acute"/>
+  <anchor x="1148" y="-177" name="hee"/>
+  <anchor x="1166" y="-136" name="hi"/>
   <anchor x="428" y="-83" name="ho"/>
-  <anchor x="1380" y="408" name="hu"/>
-  <anchor x="1216" y="-63" name="hwa"/>
+  <anchor x="1352" y="278" name="hu"/>
+  <anchor x="1134" y="-73" name="hwa"/>
   <anchor x="1158" y="657" name="neck"/>
   <outline>
     <component base="hha.base.cap"/>
-    <component base="_smart.haa.acute" xOffset="904" yOffset="-248"/>
-    <component base="_smart.cha.cap" xOffset="747" yOffset="-314"/>
+    <component base="_smart.haa.acute" xOffset="870" yOffset="-412"/>
+    <component base="_smart.cha.cap" xOffset="766" yOffset="-368"/>
   </outline>
   <lib>
     <dict>

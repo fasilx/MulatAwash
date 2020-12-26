@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ta-ethiopic" format="2">
-  <advance width="189"/>
+  <advance width="304"/>
   <unicode hex="1270"/>
-  <anchor x="69" y="12" name="haa.acute"/>
-  <anchor x="297" y="614" name="hat"/>
-  <anchor x="195" y="542" name="he.acute"/>
-  <anchor x="146" y="-107" name="hee"/>
-  <anchor x="63" y="11" name="hi"/>
-  <anchor x="188" y="577" name="ho.ring"/>
-  <anchor x="115" y="144" name="hu"/>
-  <anchor x="78" y="-5" name="hwa"/>
+  <anchor x="129" y="-53" name="haa.acute"/>
+  <anchor x="431" y="770" name="hat"/>
+  <anchor x="293" y="772" name="he.acute"/>
+  <anchor x="164" y="-201" name="hee"/>
+  <anchor x="71" y="-64" name="hi"/>
+  <anchor x="307" y="795" name="ho.ring"/>
+  <anchor x="248" y="275" name="hu"/>
+  <anchor x="62" y="-28" name="hwa"/>
   <outline>
     <component base="ta.base"/>
   </outline>

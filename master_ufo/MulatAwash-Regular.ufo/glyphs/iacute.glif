@@ -1,73 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute" format="2">
-  <advance width="168"/>
+  <advance width="246"/>
   <unicode hex="00ED"/>
   <note>
 iacute
 </note>
+  <anchor x="650" y="511" name="top"/>
   <outline>
-    <contour>
-      <point x="72" y="0" type="curve" smooth="yes"/>
-      <point x="109.333" y="0"/>
-      <point x="139.167" y="24.5"/>
-      <point x="158.5" y="46.5" type="curve" smooth="yes"/>
-      <point x="177.833" y="68.5"/>
-      <point x="208" y="125"/>
-      <point x="216" y="141" type="curve" smooth="yes"/>
-      <point x="242.309" y="193.617"/>
-      <point x="244.777" y="232.831"/>
-      <point x="223" y="192" type="curve" smooth="yes"/>
-      <point x="187" y="117.333"/>
-      <point x="155.667" y="67"/>
-      <point x="129" y="41" type="curve"/>
-      <point x="90" y="22" type="line"/>
-      <point x="68.667" y="22"/>
-      <point x="58" y="31.333"/>
-      <point x="58" y="50" type="curve" smooth="yes"/>
-      <point x="58" y="66.667"/>
-      <point x="64" y="88"/>
-      <point x="76" y="114" type="curve" smooth="yes"/>
-      <point x="94" y="160"/>
-      <point x="128.667" y="224.667"/>
-      <point x="180" y="308" type="curve" smooth="yes"/>
-      <point x="186" y="318.667"/>
-      <point x="195" y="328"/>
-      <point x="207" y="336" type="curve" smooth="yes"/>
-      <point x="217" y="344" type="line"/>
-      <point x="166" y="344" type="line" smooth="yes"/>
-      <point x="135.333" y="344"/>
-      <point x="137.333" y="345.333"/>
-      <point x="112" y="296" type="curve" smooth="yes"/>
-      <point x="25" y="130" type="line" smooth="yes"/>
-      <point x="-8.332" y="70.003"/>
-      <point x="17.597" y="0"/>
-    </contour>
-    <contour>
-      <point x="197.904" y="436.461" type="line" smooth="yes"/>
-      <point x="193.249" y="432.949"/>
-      <point x="192.882" y="432.674"/>
-      <point x="198.732" y="437.212" type="curve" smooth="yes"/>
-      <point x="216.5" y="451" type="line"/>
-      <point x="208.903" y="445.711"/>
-      <point x="203.106" y="441.144"/>
-      <point x="198.732" y="437.212" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="192" y="415" type="curve" smooth="yes"/>
-      <point x="206.667" y="415"/>
-      <point x="371.333" y="488"/>
-      <point x="378" y="504" type="curve" smooth="yes"/>
-      <point x="387.115" y="522.229"/>
-      <point x="375.242" y="533.897"/>
-      <point x="346.5" y="535" type="curve" smooth="yes"/>
-      <point x="327.237" y="535"/>
-      <point x="310.003" y="517.47"/>
-      <point x="274" y="492.5" type="curve" smooth="yes"/>
-      <point x="241.605" y="469.445"/>
-      <point x="208.547" y="444.49"/>
-      <point x="197.904" y="436.461" type="curve" smooth="yes"/>
-      <point x="179.099" y="419.192"/>
-      <point x="188.437" y="414.603"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="187" yOffset="-6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessi</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
 </glyph>

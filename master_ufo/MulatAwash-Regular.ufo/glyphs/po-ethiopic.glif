@@ -1,17 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="po-ethiopic" format="2">
-  <advance width="187"/>
+  <advance width="336"/>
   <unicode hex="1356"/>
-  <anchor x="111" y="-19" name="haa"/>
-  <anchor x="101" y="-21" name="haa.acute"/>
-  <anchor x="-14" y="74" name="he"/>
-  <anchor x="140" y="-93" name="hee"/>
-  <anchor x="129" y="-14" name="hi"/>
-  <anchor x="148" y="150" name="hu"/>
-  <anchor x="100" y="-8" name="hwa"/>
+  <anchor x="255" y="-40" name="gwa"/>
+  <anchor x="289" y="-4" name="haa"/>
+  <anchor x="224" y="-7" name="haa.acute"/>
+  <anchor x="280" y="649" name="hat"/>
+  <anchor x="105" y="96" name="he"/>
+  <anchor x="283" y="-155" name="hee"/>
+  <anchor x="276" y="-36" name="hi"/>
+  <anchor x="93" y="364" name="ho.ring"/>
+  <anchor x="307" y="304" name="hu"/>
+  <anchor x="123" y="-21" name="hwa"/>
+  <anchor x="315" y="541" name="ne"/>
+  <anchor x="192" y="479" name="neck"/>
   <outline>
     <component base="pa.base"/>
-    <component base="_smart.haa.acute" xOffset="118" yOffset="-246"/>
+    <component base="_smart.haa.acute" xOffset="207" yOffset="-396"/>
   </outline>
   <lib>
     <dict>

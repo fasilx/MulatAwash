@@ -1,7 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="faa-ethiopic.etcp" format="2">
   <advance width="712"/>
+  <anchor x="619" y="72" name="fa.arm"/>
+  <anchor x="579" y="-5" name="haa"/>
+  <anchor x="611" y="-36" name="haa.acute"/>
+  <anchor x="859" y="905" name="hat.left"/>
+  <anchor x="782" y="68" name="he.acute"/>
+  <anchor x="682" y="-247" name="hee"/>
+  <anchor x="522" y="-89" name="hu"/>
+  <anchor x="704" y="47" name="raa.helper"/>
+  <anchor x="701" y="15" name="ri.helper"/>
   <outline>
     <component base="fa.base.cap"/>
+    <component base="_smart.fa.arm" xOffset="626" yOffset="5"/>
+    <component base="_smart.haa" xOffset="573" yOffset="-605"/>
   </outline>
+  <lib>
+    <dict>
+      <key>_smart.fa.arm</key>
+      <integer>1</integer>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
 </glyph>

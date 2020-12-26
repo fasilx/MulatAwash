@@ -5,8 +5,9 @@
   <note>
 Uacute
 </note>
+  <anchor x="954" y="662" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="acute" xOffset="770" yOffset="400"/>
+    <component base="acute" xOffset="802" yOffset="143"/>
   </outline>
 </glyph>

@@ -1,19 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nye-ethiopic.etcp" format="2">
-  <advance width="706"/>
-  <anchor x="287" y="-90" name="haa.acute"/>
-  <anchor x="400" y="938" name="hat"/>
-  <anchor x="360" y="786" name="he"/>
-  <anchor x="523" y="-62" name="hee"/>
-  <anchor x="490" y="-30" name="hi"/>
-  <anchor x="631" y="442" name="hu"/>
+  <advance width="797"/>
+  <anchor x="611" y="-62" name="gwa"/>
+  <anchor x="538" y="-66" name="haa.acute"/>
+  <anchor x="685" y="840" name="hat"/>
+  <anchor x="613" y="512" name="he"/>
+  <anchor x="602" y="-244" name="hee"/>
+  <anchor x="572" y="-80" name="hi"/>
+  <anchor x="412" y="368" name="ho.ring"/>
+  <anchor x="674" y="398" name="hu"/>
+  <anchor x="604" y="671" name="neck"/>
   <outline>
-    <component base="nna.base.cap"/>
-    <component base="_smart.hat" xOffset="397" yOffset="627"/>
+    <contour>
+      <point x="599" y="357" type="line"/>
+      <point x="653" y="387" type="line"/>
+      <point x="653" y="528" type="line"/>
+      <point x="649" y="547"/>
+      <point x="638" y="557"/>
+      <point x="620" y="557" type="curve" smooth="yes"/>
+      <point x="591" y="557"/>
+      <point x="513" y="538"/>
+      <point x="513" y="508" type="curve" smooth="yes"/>
+      <point x="513" y="479"/>
+      <point x="560" y="466"/>
+      <point x="599" y="472" type="curve"/>
+    </contour>
+    <component base="ga.base.cap" xOffset="184"/>
+    <component base="_smart.hat" xOffset="687" yOffset="459"/>
   </outline>
   <lib>
     <dict>
-      <key>_smart.hat.cap</key>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.he</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>ga.base</string>

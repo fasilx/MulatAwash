@@ -5,8 +5,9 @@
   <note>
 Ecircumflex
 </note>
+  <anchor x="635" y="744" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="circumflex" xOffset="445" yOffset="443"/>
+    <component base="circumflex" xOffset="385" yOffset="221"/>
   </outline>
 </glyph>

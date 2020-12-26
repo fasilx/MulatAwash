@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vee-ethiopic.fina" format="2">
+  <advance width="616"/>
+  <anchor x="328" y="473" name="aGl"/>
+  <anchor x="400" y="-22" name="haa"/>
+  <anchor x="511" y="667" name="hat"/>
+  <anchor x="349" y="817" name="hat.left"/>
+  <anchor x="266" y="223" name="he"/>
+  <anchor x="549" y="696" name="he.acute"/>
+  <anchor x="412" y="-158" name="hee"/>
+  <anchor x="350" y="-27" name="hi"/>
+  <anchor x="84" y="-4" name="ho"/>
+  <anchor x="511" y="273" name="hu"/>
+  <anchor x="311" y="-16" name="hwa"/>
+  <anchor x="433" y="583" name="ka"/>
+  <anchor x="475" y="497" name="neck"/>
+  <anchor x="462" y="514" name="top"/>
+  <outline>
+    <component base="ba.base.001"/>
+    <component base="_smart.hee" xOffset="371" yOffset="-679"/>
+    <component base="_smart.hat" xOffset="513" yOffset="286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
