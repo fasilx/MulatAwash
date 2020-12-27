@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="te-ethiopic.etcp" format="2">
-  <advance width="575"/>
-  <anchor x="477" y="-104" name="haa.acute"/>
-  <anchor x="747" y="787" name="hat"/>
-  <anchor x="684" y="778" name="he.acute"/>
-  <anchor x="492" y="-218" name="hee"/>
-  <anchor x="436" y="-37" name="hi"/>
-  <anchor x="658" y="770" name="ho.ring"/>
-  <anchor x="652" y="285" name="hu"/>
-  <anchor x="442" y="-73" name="hwa"/>
+  <advance width="942"/>
+  <anchor x="502" y="-104" name="haa.acute"/>
+  <anchor x="772" y="787" name="hat"/>
+  <anchor x="709" y="778" name="he.acute"/>
+  <anchor x="517" y="-218" name="hee"/>
+  <anchor x="461" y="-37" name="hi"/>
+  <anchor x="683" y="770" name="ho.ring"/>
+  <anchor x="677" y="285" name="hu"/>
+  <anchor x="467" y="-73" name="hwa"/>
   <outline>
     <component base="ta.base.cap"/>
-    <component base="_smart.he.acute" xOffset="680" yOffset="308"/>
+    <component base="_smart.he.acute" xOffset="705" yOffset="308"/>
   </outline>
   <lib>
     <dict>

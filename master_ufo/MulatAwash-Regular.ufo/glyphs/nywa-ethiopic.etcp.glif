@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nywa-ethiopic.etcp" format="2">
-  <advance width="747"/>
-  <anchor x="296" y="-27" name="fa.arm"/>
-  <anchor x="421" y="-104" name="haa"/>
-  <anchor x="646" y="867" name="hat"/>
-  <anchor x="259" y="719" name="he"/>
-  <anchor x="761" y="488" name="ho.ring"/>
-  <anchor x="411" y="-101" name="hwa"/>
+  <advance width="716"/>
+  <anchor x="258" y="-27" name="fa.arm"/>
+  <anchor x="383" y="-104" name="haa"/>
+  <anchor x="608" y="867" name="hat"/>
+  <anchor x="221" y="719" name="he"/>
+  <anchor x="723" y="488" name="ho.ring"/>
+  <anchor x="373" y="-101" name="hwa"/>
   <outline>
     <component base="na.base.cap"/>
-    <component base="_smart.hat" xOffset="648" yOffset="486"/>
-    <component base="_smart.ho.ring" xOffset="750" yOffset="-40"/>
-    <component base="_smart.hwa" xOffset="335" yOffset="-879"/>
+    <component base="_smart.hat" xOffset="610" yOffset="486"/>
+    <component base="_smart.ho.ring" xOffset="712" yOffset="-40"/>
+    <component base="_smart.hwa" xOffset="297" yOffset="-879"/>
   </outline>
   <lib>
     <dict>

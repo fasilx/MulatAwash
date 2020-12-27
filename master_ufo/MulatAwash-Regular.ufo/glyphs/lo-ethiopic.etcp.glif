@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lo-ethiopic.etcp" format="2">
-  <advance width="1272"/>
-  <anchor x="1074" y="-47" name="haa"/>
-  <anchor x="1111" y="-232" name="hee"/>
-  <anchor x="1095" y="-126" name="hi"/>
-  <anchor x="1192" y="418" name="ho.ring"/>
-  <anchor x="1145" y="272" name="hu"/>
-  <anchor x="1110" y="-44" name="hwa"/>
-  <anchor x="739" y="-46" name="ring"/>
+  <advance width="1196"/>
+  <anchor x="1062" y="-47" name="haa"/>
+  <anchor x="1099" y="-232" name="hee"/>
+  <anchor x="1083" y="-126" name="hi"/>
+  <anchor x="1180" y="418" name="ho.ring"/>
+  <anchor x="1133" y="272" name="hu"/>
+  <anchor x="1098" y="-44" name="hwa"/>
+  <anchor x="727" y="-46" name="ring"/>
   <outline>
     <component base="la.base.cap"/>
-    <component base="_smart.ho.ring" xOffset="1181" yOffset="-110"/>
+    <component base="_smart.ho.ring" xOffset="1169" yOffset="-110"/>
   </outline>
   <lib>
     <dict>

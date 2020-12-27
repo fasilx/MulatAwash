@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="he-ethiopic.etcp" format="2">
-  <advance width="942"/>
-  <anchor x="647" y="-90" name="haa"/>
-  <anchor x="722" y="498" name="he"/>
-  <anchor x="724" y="-246" name="hee"/>
-  <anchor x="589" y="-91" name="hi"/>
-  <anchor x="969" y="549" name="ho.ring"/>
-  <anchor x="945" y="287" name="hu"/>
-  <anchor x="688" y="-42" name="hwa"/>
+  <advance width="890"/>
+  <anchor x="670" y="-90" name="haa"/>
+  <anchor x="745" y="498" name="he"/>
+  <anchor x="747" y="-246" name="hee"/>
+  <anchor x="612" y="-91" name="hi"/>
+  <anchor x="992" y="549" name="ho.ring"/>
+  <anchor x="968" y="287" name="hu"/>
+  <anchor x="711" y="-42" name="hwa"/>
   <outline>
     <component base="ha.base.cap"/>
-    <component base="_smart.he" xOffset="704" yOffset="-93"/>
+    <component base="_smart.he" xOffset="727" yOffset="-93"/>
   </outline>
   <lib>
     <dict>

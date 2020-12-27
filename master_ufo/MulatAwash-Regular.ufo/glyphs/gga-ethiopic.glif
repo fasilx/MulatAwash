@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gga-ethiopic" format="2">
-  <advance width="446"/>
+  <advance width="416"/>
   <unicode hex="1318"/>
   <anchor x="322" y="-41" name="gwa"/>
   <anchor x="358" y="-23" name="haa"/>
-  <anchor x="286" y="-13" name="haa.acute"/>
+  <anchor x="246" y="1" name="haa.acute"/>
   <anchor x="290" y="632" name="hat"/>
   <anchor x="350" y="344" name="he"/>
   <anchor x="304" y="-192" name="hee"/>

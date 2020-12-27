@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi-ethiopic.etcp" format="2">
   <advance width="712"/>
-  <anchor x="619" y="72" name="fa.arm"/>
-  <anchor x="579" y="-5" name="haa"/>
-  <anchor x="611" y="-36" name="haa.acute"/>
-  <anchor x="859" y="905" name="hat.left"/>
-  <anchor x="782" y="68" name="he.acute"/>
-  <anchor x="682" y="-247" name="hee"/>
-  <anchor x="522" y="-89" name="hu"/>
-  <anchor x="704" y="47" name="raa.helper"/>
-  <anchor x="701" y="15" name="ri.helper"/>
+  <anchor x="644" y="72" name="fa.arm"/>
+  <anchor x="604" y="-5" name="haa"/>
+  <anchor x="636" y="-36" name="haa.acute"/>
+  <anchor x="884" y="905" name="hat.left"/>
+  <anchor x="807" y="68" name="he.acute"/>
+  <anchor x="707" y="-247" name="hee"/>
+  <anchor x="547" y="-89" name="hu"/>
+  <anchor x="729" y="47" name="raa.helper"/>
+  <anchor x="726" y="15" name="ri.helper"/>
   <outline>
     <component base="fa.base.cap"/>
-    <component base="_smart.fa.arm" xOffset="626" yOffset="5"/>
-    <component base="_smart.ri.helper" xScale="0.57358" xyScale="-0.81915" yxScale="0.81915" yScale="0.57358" xOffset="691" yOffset="-47"/>
+    <component base="_smart.fa.arm" xOffset="651" yOffset="5"/>
+    <component base="_smart.ri.helper" xScale="0.57358" xyScale="-0.81915" yxScale="0.81915" yScale="0.57358" xOffset="716" yOffset="-47"/>
   </outline>
   <lib>
     <dict>

@@ -12,6 +12,8 @@
 
 @finaSub = [ shaa-ethiopic.fina pee-ethiopic.fina ke-ethiopic.fina he-ethiopic.fina kxa-ethiopic.fina kxi-ethiopic.fina kwi-ethiopic.fina gwe-ethiopic.fina qaa-ethiopic.fina tha-ethiopic.fina shi-ethiopic.fina qwe-ethiopic.fina ni-ethiopic.fina bwa-ethiopic.fina xi-ethiopic.fina ge-ethiopic.fina qo-ethiopic.fina swa-ethiopic.fina aaPharyngeal-ethiopic.fina qi-ethiopic.fina ci-ethiopic.fina qhee-ethiopic.fina qhu-ethiopic.fina thwa-ethiopic.fina sha-ethiopic.fina xu-ethiopic.fina te-ethiopic.fina ca-ethiopic.fina cee-ethiopic.fina go-ethiopic.fina laa-ethiopic.fina waa-ethiopic.fina gwa-ethiopic.fina chi-ethiopic.fina nyu-ethiopic.fina xe-ethiopic.fina hhee-ethiopic.fina me-ethiopic.fina ggo-ethiopic.fina vwa-ethiopic.fina hhe-ethiopic.fina maa-ethiopic.fina hhi-ethiopic.fina mee-ethiopic.fina gwi-ethiopic.fina kxwaa-ethiopic.fina mi-ethiopic.fina mwa-ethiopic.fina iPharyngeal-ethiopic.fina su-ethiopic.fina pa-ethiopic.fina tzee-ethiopic.fina qwi-ethiopic.fina thi-ethiopic.fina hi-ethiopic.fina xwe-ethiopic.fina vo-ethiopic.fina aGlottal-ethiopic.fina ki-ethiopic.fina nu-ethiopic.fina ga-ethiopic.fina pi-ethiopic.fina kwa-ethiopic.fina gwaa-ethiopic.fina chu-ethiopic.fina vi-ethiopic.fina waGlottal-ethiopic.fina qhwaa-ethiopic.fina shu-ethiopic.fina ggee-ethiopic.fina kxe-ethiopic.fina koa-ethiopic.fina thaa-ethiopic.fina po-ethiopic.fina xa-ethiopic.fina xwa-ethiopic.fina kxwe-ethiopic.fina chwa-ethiopic.fina tza-ethiopic.fina mu-ethiopic.fina qhe-ethiopic.fina xwaa-ethiopic.fina wee-ethiopic.fina gaa-ethiopic.fina li-ethiopic.fina na-ethiopic.fina lu-ethiopic.fina woa-ethiopic.fina qwee-ethiopic.fina tze-ethiopic.fina kxaa-ethiopic.fina pe-ethiopic.fina qha-ethiopic.fina si-ethiopic.fina chaa-ethiopic.fina hhwa-ethiopic.fina qhwi-ethiopic.fina hho-ethiopic.fina she-ethiopic.fina caa-ethiopic.fina twa-ethiopic.fina we-ethiopic.fina kwaa-ethiopic.fina kxo-ethiopic.fina so-ethiopic.fina eePharyngeal-ethiopic.fina le-ethiopic.fina iGlottal-ethiopic.fina ggi-ethiopic.fina lwa-ethiopic.fina qhwee-ethiopic.fina qe-ethiopic.fina lee-ethiopic.fina wi-ethiopic.fina aPharyngeal-ethiopic.fina qwa-ethiopic.fina va-ethiopic.fina qhi-ethiopic.fina pu-ethiopic.fina hhaa-ethiopic.fina uPharyngeal-ethiopic.fina hoa-ethiopic.fina gi-ethiopic.fina gee-ethiopic.fina eeGlottal-ethiopic.fina chee-ethiopic.fina kwee-ethiopic.fina hhu-ethiopic.fina nee-ethiopic.fina ggu-ethiopic.fina wa-ethiopic.fina ka-ethiopic.fina bu-ethiopic.fina tee-ethiopic.fina uGlottal-ethiopic.fina ti-ethiopic.fina gwee-ethiopic.fina cho-ethiopic.fina kee-ethiopic.fina nyee-ethiopic.fina qwaa-ethiopic.fina ba-ethiopic.fina co-ethiopic.fina ePharyngeal-ethiopic.fina kxwi-ethiopic.fina qa-ethiopic.fina gu-ethiopic.fina qhaa-ethiopic.fina ggaa-ethiopic.fina thee-ethiopic.fina shwa-ethiopic.fina qu-ethiopic.fina mo-ethiopic.fina be-ethiopic.fina taa-ethiopic.fina cu-ethiopic.fina vu-ethiopic.fina tzo-ethiopic.fina the-ethiopic.fina sho-ethiopic.fina wu-ethiopic.fina xee-ethiopic.fina aaGlottal-ethiopic.fina cwa-ethiopic.fina kxwa-ethiopic.fina ma-ethiopic.fina ta-ethiopic.fina bo-ethiopic.fina kaa-ethiopic.fina tu-ethiopic.fina paa-ethiopic.fina kxee-ethiopic.fina tzi-ethiopic.fina eGlottal-ethiopic.fina tzaa-ethiopic.fina nyi-ethiopic.fina ne-ethiopic.fina ho-ethiopic.fina xaa-ethiopic.fina nya-ethiopic.fina qee-ethiopic.fina qhwe-ethiopic.fina hha-ethiopic.fina gge-ethiopic.fina tzu-ethiopic.fina see-ethiopic.fina bi-ethiopic.fina shee-ethiopic.fina hu-ethiopic.fina vaa-ethiopic.fina ko-ethiopic.fina ve-ethiopic.fina saa-ethiopic.fina qoa-ethiopic.fina haa-ethiopic.fina bee-ethiopic.fina kxwee-ethiopic.fina kwe-ethiopic.fina sa-ethiopic.fina vee-ethiopic.fina xwee-ethiopic.fina gga-ethiopic.fina tho-ethiopic.fina che-ethiopic.fina lo-ethiopic.fina baa-ethiopic.fina qhwa-ethiopic.fina oGlottal-ethiopic.fina thu-ethiopic.fina la-ethiopic.fina hee-ethiopic.fina goa-ethiopic.fina pwa-ethiopic.fina ce-ethiopic.fina to-ethiopic.fina cha-ethiopic.fina se-ethiopic.fina kxu-ethiopic.fina ku-ethiopic.fina xwi-ethiopic.fina oPharyngeal-ethiopic.fina wo-ethiopic.fina ha-ethiopic.fina ggwaa-ethiopic.fina qho-ethiopic.fina tzoa-ethiopic.fina nye-ethiopic.fina ];
 
+@za = [ za-ethiopic zu-ethiopic zi-ethiopic zaa-ethiopic zee-ethiopic ze-ethiopic zo-ethiopic zwa-ethiopic zha-ethiopic zhu-ethiopic zhi-ethiopic zhaa-ethiopic zhee-ethiopic zhe-ethiopic zho-ethiopic zhwa-ethiopic  ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 
@@ -954,8 +956,15 @@ sub pwa-ethiopic by pwa-ethiopic.fina;
 
 } fina;
 
+feature calt {
+sub  @finaDef' [ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic] by @finaSub;
+
+} calt;
+
 feature kern {
 pos j' j 150;
+pos  @finaSub' [ra-ethiopic ru-ethiopic ri-ethiopic raa-ethiopic ree-ethiopic] -100;
+#pos @za' @za 100;
 } kern;
 
 table GDEF {

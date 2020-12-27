@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dda-ethiopic.etcp" format="2">
-  <advance width="1213"/>
-  <anchor x="680" y="98" name="da.cap"/>
-  <anchor x="977" y="-19" name="haa"/>
-  <anchor x="1014" y="923" name="hat"/>
-  <anchor x="1093" y="544" name="he"/>
-  <anchor x="972" y="-255" name="hee"/>
-  <anchor x="928" y="-67" name="hi"/>
-  <anchor x="396" y="-52" name="ho"/>
-  <anchor x="1042" y="100" name="hu"/>
-  <anchor x="921" y="18" name="hwa"/>
-  <anchor x="925" y="744" name="neck"/>
+  <advance width="976"/>
+  <anchor x="565" y="98" name="da.cap"/>
+  <anchor x="862" y="-19" name="haa"/>
+  <anchor x="899" y="923" name="hat"/>
+  <anchor x="978" y="544" name="he"/>
+  <anchor x="857" y="-255" name="hee"/>
+  <anchor x="813" y="-67" name="hi"/>
+  <anchor x="281" y="-52" name="ho"/>
+  <anchor x="927" y="100" name="hu"/>
+  <anchor x="806" y="18" name="hwa"/>
+  <anchor x="810" y="744" name="neck"/>
   <outline>
     <component base="da.base.cap"/>
-    <component base="_smart.da.cap" xOffset="936" yOffset="-148"/>
-    <component base="_smart.neck" xOffset="935" yOffset="353"/>
+    <component base="_smart.da.cap" xOffset="821" yOffset="-148"/>
+    <component base="_smart.neck" xOffset="820" yOffset="353"/>
   </outline>
   <lib>
     <dict>

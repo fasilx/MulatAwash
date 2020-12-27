@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ggo-ethiopic.etcp" format="2">
   <advance width="735"/>
-  <anchor x="549" y="-62" name="gwa"/>
-  <anchor x="476" y="-66" name="haa.acute"/>
-  <anchor x="623" y="840" name="hat"/>
-  <anchor x="551" y="512" name="he"/>
-  <anchor x="540" y="-244" name="hee"/>
-  <anchor x="510" y="-80" name="hi"/>
-  <anchor x="350" y="368" name="ho.ring"/>
-  <anchor x="612" y="398" name="hu"/>
-  <anchor x="542" y="671" name="neck"/>
+  <anchor x="574" y="-62" name="gwa"/>
+  <anchor x="501" y="-66" name="haa.acute"/>
+  <anchor x="648" y="840" name="hat"/>
+  <anchor x="576" y="512" name="he"/>
+  <anchor x="565" y="-244" name="hee"/>
+  <anchor x="535" y="-80" name="hi"/>
+  <anchor x="375" y="368" name="ho.ring"/>
+  <anchor x="637" y="398" name="hu"/>
+  <anchor x="567" y="671" name="neck"/>
   <outline>
     <contour>
       <point x="729" y="771" type="curve" smooth="yes"/>

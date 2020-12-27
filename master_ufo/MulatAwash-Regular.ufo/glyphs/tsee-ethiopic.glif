@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tsee-ethiopic" format="2">
-  <advance width="474"/>
+  <advance width="395"/>
   <unicode hex="133C"/>
-  <anchor x="450" y="-109" name="haa"/>
-  <anchor x="307" y="760" name="hat"/>
-  <anchor x="567" y="310" name="he"/>
-  <anchor x="544" y="-295" name="hee"/>
-  <anchor x="425" y="-62" name="hi"/>
-  <anchor x="267" y="-82" name="ho"/>
-  <anchor x="497" y="102" name="hu"/>
-  <anchor x="406" y="-103" name="hwa"/>
-  <anchor x="438" y="515" name="neck"/>
-  <anchor x="465" y="-217" name="tswa"/>
+  <anchor x="305" y="-162" name="haa"/>
+  <anchor x="228" y="760" name="hat"/>
+  <anchor x="368" y="310" name="he"/>
+  <anchor x="465" y="-295" name="hee"/>
+  <anchor x="306" y="-92" name="hi"/>
+  <anchor x="188" y="-82" name="ho"/>
+  <anchor x="418" y="102" name="hu"/>
+  <anchor x="327" y="-103" name="hwa"/>
+  <anchor x="359" y="515" name="neck"/>
+  <anchor x="304" y="-195" name="tswa"/>
   <outline>
     <component base="tsa.base"/>
-    <component base="_smart.hee" xOffset="503" yOffset="-816"/>
+    <component base="_smart.hee" xOffset="424" yOffset="-816"/>
   </outline>
   <lib>
     <dict>

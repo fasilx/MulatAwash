@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="chu-ethiopic.etcp" format="2">
-  <advance width="1329"/>
-  <anchor x="801" y="-74" name="cha.cap"/>
-  <anchor x="1182" y="-61" name="haa"/>
-  <anchor x="887" y="-23" name="haa.acute"/>
-  <anchor x="1226" y="856" name="he.acute"/>
-  <anchor x="1148" y="-177" name="hee"/>
-  <anchor x="1166" y="-136" name="hi"/>
-  <anchor x="428" y="-83" name="ho"/>
-  <anchor x="1352" y="278" name="hu"/>
-  <anchor x="1134" y="-73" name="hwa"/>
-  <anchor x="1158" y="657" name="neck"/>
+  <advance width="1316"/>
+  <anchor x="803" y="-74" name="cha.cap"/>
+  <anchor x="1184" y="-61" name="haa"/>
+  <anchor x="889" y="-23" name="haa.acute"/>
+  <anchor x="1228" y="856" name="he.acute"/>
+  <anchor x="1150" y="-177" name="hee"/>
+  <anchor x="1168" y="-136" name="hi"/>
+  <anchor x="430" y="-83" name="ho"/>
+  <anchor x="1354" y="278" name="hu"/>
+  <anchor x="1136" y="-73" name="hwa"/>
+  <anchor x="1160" y="657" name="neck"/>
   <outline>
     <component base="hha.base.cap"/>
-    <component base="_smart.hu" xOffset="1375" yOffset="-312"/>
-    <component base="_smart.cha.cap" xOffset="766" yOffset="-368"/>
+    <component base="_smart.hu" xOffset="1377" yOffset="-312"/>
+    <component base="_smart.cha.cap" xOffset="768" yOffset="-368"/>
   </outline>
   <lib>
     <dict>

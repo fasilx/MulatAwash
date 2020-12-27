@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ru-ethiopic.etcp" format="2">
-  <advance width="712"/>
-  <anchor x="619" y="72" name="fa.arm"/>
-  <anchor x="822" y="202" name="haa.acute"/>
-  <anchor x="859" y="905" name="hat.left"/>
-  <anchor x="782" y="68" name="he.acute"/>
-  <anchor x="682" y="-247" name="hee"/>
-  <anchor x="613" y="-124" name="hu"/>
-  <anchor x="704" y="47" name="raa.helper"/>
-  <anchor x="701" y="15" name="ri.helper"/>
+  <advance width="844"/>
+  <anchor x="644" y="72" name="fa.arm"/>
+  <anchor x="847" y="202" name="haa.acute"/>
+  <anchor x="884" y="905" name="hat.left"/>
+  <anchor x="807" y="68" name="he.acute"/>
+  <anchor x="707" y="-247" name="hee"/>
+  <anchor x="638" y="-124" name="hu"/>
+  <anchor x="729" y="47" name="raa.helper"/>
+  <anchor x="726" y="15" name="ri.helper"/>
   <outline>
     <component base="ra.base.cap"/>
-    <component base="_smart.hu" xOffset="636" yOffset="-714"/>
+    <component base="_smart.hu" xOffset="661" yOffset="-714"/>
   </outline>
   <lib>
     <dict>

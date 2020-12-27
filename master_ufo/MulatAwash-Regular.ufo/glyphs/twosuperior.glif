@@ -6,6 +6,6 @@
 twosuperior
 </note>
   <outline>
-    <component base="two.inferior" yOffset="250"/>
+    <component base="two" xScale="0.8" yScale="0.8" yOffset="240"/>
   </outline>
 </glyph>

@@ -6,6 +6,54 @@
 five.superior
 </note>
   <outline>
-    <component base="five.inferior" yOffset="270"/>
+    <contour>
+      <point x="-51" y="242" type="line"/>
+      <point x="34" y="187"/>
+      <point x="328" y="305"/>
+      <point x="328" y="495" type="curve" smooth="yes"/>
+      <point x="328" y="550"/>
+      <point x="289" y="579"/>
+      <point x="232" y="579" type="curve" smooth="yes"/>
+      <point x="190" y="579"/>
+      <point x="154" y="565"/>
+      <point x="112" y="536" type="curve"/>
+      <point x="242" y="751" type="line"/>
+      <point x="331" y="748" type="line" smooth="yes"/>
+      <point x="386" y="746"/>
+      <point x="409" y="744"/>
+      <point x="447" y="796" type="curve"/>
+      <point x="443" y="798" type="line"/>
+      <point x="402" y="767"/>
+      <point x="342" y="775"/>
+      <point x="302" y="781" type="curve" smooth="yes"/>
+      <point x="274" y="785"/>
+      <point x="254" y="786"/>
+      <point x="222" y="775" type="curve"/>
+      <point x="220" y="774"/>
+      <point x="215" y="766"/>
+      <point x="209" y="756" type="curve" smooth="yes"/>
+      <point x="180" y="711"/>
+      <point x="118" y="602"/>
+      <point x="86" y="543" type="curve" smooth="yes"/>
+      <point x="77" y="526"/>
+      <point x="70" y="513"/>
+      <point x="69" y="508" type="curve"/>
+      <point x="69" y="502" type="line"/>
+      <point x="75" y="501" type="line"/>
+      <point x="122" y="527"/>
+      <point x="175" y="554"/>
+      <point x="216" y="557" type="curve" smooth="yes"/>
+      <point x="254" y="559"/>
+      <point x="280" y="540"/>
+      <point x="280" y="493" type="curve" smooth="yes"/>
+      <point x="280" y="386"/>
+      <point x="126" y="249"/>
+      <point x="18" y="249" type="curve" smooth="yes"/>
+      <point x="-6" y="249"/>
+      <point x="-26" y="251"/>
+      <point x="-42" y="258" type="curve"/>
+      <point x="-46" y="255" type="line"/>
+      <point x="-51" y="249" type="line"/>
+    </contour>
   </outline>
 </glyph>

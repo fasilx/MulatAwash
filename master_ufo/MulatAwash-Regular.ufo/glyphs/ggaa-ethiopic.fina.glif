@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ggaa-ethiopic.fina" format="2">
   <advance width="485"/>
-  <anchor x="361" y="-41" name="gwa"/>
+  <anchor x="321" y="19" name="gwa"/>
   <anchor x="397" y="-23" name="haa"/>
   <anchor x="325" y="-13" name="haa.acute"/>
   <anchor x="329" y="632" name="hat"/>
-  <anchor x="349" y="354" name="he"/>
+  <anchor x="318" y="356" name="he"/>
   <anchor x="343" y="-192" name="hee"/>
   <anchor x="270" y="-75" name="hi"/>
   <anchor x="268" y="304" name="ho.ring"/>
