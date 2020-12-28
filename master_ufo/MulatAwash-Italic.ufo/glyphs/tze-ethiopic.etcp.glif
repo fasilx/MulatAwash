@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tze-ethiopic.etcp" format="2">
+  <advance width="569"/>
+  <anchor x="352" y="335" name="belt.cap"/>
+  <anchor x="469" y="-52" name="haa"/>
+  <anchor x="233" y="-105" name="haa.acute"/>
+  <anchor x="499" y="807" name="he.acute"/>
+  <anchor x="307" y="-265" name="hee"/>
+  <anchor x="144" y="-157" name="hi"/>
+  <anchor x="626" y="175" name="hu"/>
+  <anchor x="335" y="-90" name="hwa"/>
+  <outline>
+    <component base="oPh.base.cap"/>
+    <component base="_smart.he.acute" xOffset="495" yOffset="337"/>
+    <component base="_smart.belt.cap" xOffset="349" yOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart. he.acute</key>
+      <integer>1</integer>
+      <key>_smart.belt.cap</key>
+      <integer>1</integer>
+      <key>_smart.he.acute</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -324,6 +324,10 @@
       <string>/twothirds</string>
       <string>/four.inferior</string>
       <string>/nine.superior</string>
+      <string>/ga.base.cap/gu-ethiopic.etcp</string>
+      <string>/ggo-ethiopic.etcp</string>
+      <string>M</string>
+      <string>Y</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>

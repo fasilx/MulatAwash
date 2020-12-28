@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ree-ethiopic" format="2">
+  <advance width="419"/>
+  <unicode hex="122C"/>
+  <anchor x="198" y="-13" name="haa"/>
+  <anchor x="233" y="453" name="hat"/>
+  <anchor x="346" y="80" name="hee"/>
+  <anchor x="197" y="165" name="hi"/>
+  <anchor x="182" y="-66" name="hu"/>
+  <anchor x="387" y="42" name="raa.helper"/>
+  <anchor x="305" y="45" name="ri.helper"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.hee" xOffset="305" yOffset="-441"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

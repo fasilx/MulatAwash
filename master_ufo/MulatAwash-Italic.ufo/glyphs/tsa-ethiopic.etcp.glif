@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsa-ethiopic.etcp" format="2">
+  <advance width="596"/>
+  <anchor x="525" y="-173" name="haa"/>
+  <anchor x="549" y="865" name="hat"/>
+  <anchor x="606" y="358" name="he"/>
+  <anchor x="596" y="-325" name="hee"/>
+  <anchor x="302" y="-268" name="hi"/>
+  <anchor x="68" y="-136" name="ho"/>
+  <anchor x="551" y="-54" name="hu"/>
+  <anchor x="506" y="714" name="neck"/>
+  <anchor x="364" y="699" name="top"/>
+  <anchor x="315" y="-324" name="tswa"/>
+  <outline>
+    <component base="tsa.base.cap"/>
+  </outline>
+</glyph>

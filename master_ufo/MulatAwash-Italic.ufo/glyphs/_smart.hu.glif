@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hu" format="2">
+  <anchor x="-23" y="590" name="_hu"/>
+  <outline>
+    <contour>
+      <point x="-115" y="589" type="line"/>
+      <point x="51" y="589" type="line"/>
+      <point x="51" y="633" type="line"/>
+      <point x="-115" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

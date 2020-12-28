@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyi-ethiopic.fina" format="2">
+  <advance width="397"/>
+  <anchor x="226" y="20" name="gwa"/>
+  <anchor x="191" y="-15" name="haa.acute"/>
+  <anchor x="258" y="587" name="hat"/>
+  <anchor x="192" y="564" name="he"/>
+  <anchor x="335" y="-188" name="hee"/>
+  <anchor x="208" y="29" name="hi"/>
+  <anchor x="438" y="284" name="hu"/>
+  <anchor x="138" y="509" name="nose.ext"/>
+  <outline>
+    <component base="nna.base.001"/>
+    <component base="_smart.hat" xOffset="260" yOffset="206"/>
+    <component base="_smart.hi" xOffset="234" yOffset="-595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
