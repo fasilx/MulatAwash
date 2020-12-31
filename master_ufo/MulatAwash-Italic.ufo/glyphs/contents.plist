@@ -224,6 +224,8 @@
     <string>_smart.zha.cap.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>aGl.base.cap</key>
+    <string>aG_l.base.cap.glif</string>
     <key>aGlottal-ethiopic</key>
     <string>aG_lottal-ethiopic.glif</string>
     <key>aGlottal-ethiopic.etcp</key>

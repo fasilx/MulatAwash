@@ -4,10 +4,10 @@
   <unicode hex="127B"/>
   <anchor x="129" y="-53" name="haa.acute"/>
   <anchor x="431" y="770" name="hat"/>
-  <anchor x="268" y="822" name="he.acute"/>
+  <anchor x="248" y="712" name="he.acute"/>
   <anchor x="164" y="-201" name="hee"/>
   <anchor x="71" y="-64" name="hi"/>
-  <anchor x="307" y="795" name="ho.ring"/>
+  <anchor x="287" y="725" name="ho.ring"/>
   <anchor x="248" y="275" name="hu"/>
   <anchor x="62" y="-28" name="hwa"/>
   <outline>

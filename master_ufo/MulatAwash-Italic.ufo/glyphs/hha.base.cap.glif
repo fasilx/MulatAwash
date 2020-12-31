@@ -4,13 +4,13 @@
   <anchor x="803" y="-74" name="cha.cap"/>
   <anchor x="1184" y="-61" name="haa"/>
   <anchor x="889" y="-23" name="haa.acute"/>
-  <anchor x="1228" y="856" name="he.acute"/>
+  <anchor x="1158" y="786" name="he.acute"/>
   <anchor x="1150" y="-177" name="hee"/>
   <anchor x="1168" y="-136" name="hi"/>
   <anchor x="430" y="-83" name="ho"/>
   <anchor x="1354" y="278" name="hu"/>
   <anchor x="1136" y="-73" name="hwa"/>
-  <anchor x="1160" y="657" name="neck"/>
+  <anchor x="1130" y="597" name="neck"/>
   <outline>
     <contour>
       <point x="1360" y="-114" type="curve" smooth="yes"/>
@@ -112,7 +112,7 @@
       <point x="489" y="-18"/>
       <point x="495" y="-4" type="curve" smooth="yes"/>
       <point x="539" y="94" type="line" smooth="yes"/>
-      <point x="595" y="221"/>
+      <point x="596" y="221"/>
       <point x="623" y="283"/>
       <point x="702" y="411" type="curve" smooth="yes"/>
       <point x="741" y="474"/>

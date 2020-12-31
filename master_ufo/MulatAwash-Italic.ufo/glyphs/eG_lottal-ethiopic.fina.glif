@@ -19,7 +19,7 @@
   <outline>
     <component base="ba.base.001"/>
     <component base="_smart.aGl" xOffset="342" yOffset="122"/>
-    <component base="_smart.he.aGl" xOffset="307" yOffset="-218"/>
+    <component base="_smart.he.aGl" xOffset="307" yOffset="82"/>
   </outline>
   <lib>
     <dict>

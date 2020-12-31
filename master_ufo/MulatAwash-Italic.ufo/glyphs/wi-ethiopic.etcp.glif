@@ -3,14 +3,14 @@
   <advance width="971"/>
   <anchor x="476" y="-8" name="haa"/>
   <anchor x="496" y="-78" name="haa.acute"/>
-  <anchor x="745" y="904" name="hat"/>
-  <anchor x="715" y="902" name="he.acute"/>
+  <anchor x="705" y="834" name="hat"/>
+  <anchor x="635" y="832" name="he.acute"/>
   <anchor x="501" y="-246" name="hee"/>
   <anchor x="417" y="-151" name="hi"/>
   <anchor x="670" y="828" name="ho.ring"/>
   <anchor x="1019" y="56" name="hu"/>
   <anchor x="482" y="-39" name="hwa"/>
-  <anchor x="664" y="735" name="neck"/>
+  <anchor x="654" y="655" name="neck"/>
   <outline>
     <component base="wa.base.cap"/>
     <component base="_smart.hi" xOffset="443" yOffset="-775"/>

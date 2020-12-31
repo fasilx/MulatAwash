@@ -27,6 +27,11 @@
   </instances>
   <lib>
     <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>1691882E-B915-4755-A5B2-757873D945FF</key>
+        <dict/>
+      </dict>
       <key>com.github.googlei18n.ufo2ft.featureWriters</key>
       <array>
         <dict>

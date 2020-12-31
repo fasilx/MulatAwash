@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="comma-ethiopic" format="2">
-  <advance width="487"/>
-  <unicode hex="1363"/>
-  <outline>
-    <component base="colon"/>
-    <component base="macron"/>
-  </outline>
-</glyph>

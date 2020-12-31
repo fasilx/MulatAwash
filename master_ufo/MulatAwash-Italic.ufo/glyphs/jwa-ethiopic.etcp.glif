@@ -3,19 +3,19 @@
   <advance width="976"/>
   <anchor x="565" y="98" name="da.cap"/>
   <anchor x="862" y="-19" name="haa"/>
-  <anchor x="899" y="923" name="hat"/>
+  <anchor x="849" y="843" name="hat"/>
   <anchor x="978" y="544" name="he"/>
   <anchor x="857" y="-255" name="hee"/>
   <anchor x="813" y="-67" name="hi"/>
   <anchor x="281" y="-52" name="ho"/>
   <anchor x="927" y="100" name="hu"/>
   <anchor x="806" y="18" name="hwa"/>
-  <anchor x="810" y="744" name="neck"/>
+  <anchor x="790" y="684" name="neck"/>
   <outline>
     <component base="da.base.cap"/>
     <component base="_smart.da.cap" xOffset="821" yOffset="-148"/>
-    <component base="_smart.neck" xOffset="820" yOffset="353"/>
-    <component base="_smart.hat" xOffset="901" yOffset="542"/>
+    <component base="_smart.neck" xOffset="800" yOffset="293"/>
+    <component base="_smart.hat" xOffset="851" yOffset="462"/>
     <component base="_smart.hwa" xOffset="730" yOffset="-760"/>
   </outline>
   <lib>
