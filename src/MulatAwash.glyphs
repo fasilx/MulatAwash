@@ -1,7 +1,14 @@
 {
 .appVersion = "3039";
 DisplayStrings = (
-A
+A,
+"/ya.base.cap/ye-ethiopic.etcp",
+"/circumflex/ye-ethiopic.etcp",
+"/ya.base.cap/ye-ethiopic.etcp",
+"/ye-ethiopic.etcp/_smart.ye/ye-ethiopic",
+"/ga.base.cap/ggo-ethiopic.etcp",
+"/_smart.go/ggo-ethiopic.etcp",
+"/ga.base.cap/ggo-ethiopic.etcp"
 );
 classes = (
 {
@@ -28924,7 +28931,7 @@ width = 976;
 },
 {
 glyphname = "ye-ethiopic.etcp";
-lastChange = "2020-12-25 21:44:44 +0000";
+lastChange = "2021-01-03 19:47:55 +0000";
 layers = (
 {
 components = (
@@ -28932,12 +28939,12 @@ components = (
 name = ya.base.cap;
 },
 {
-name = circumflex;
-transform = "{0.87462, 0.48481, 0.48481, -0.87462, 263, 524}";
+name = _smart.ye;
+transform = "{1, 0, 0, 1, 627, 92}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
-width = 1213;
+width = 976;
 }
 );
 },
@@ -30212,58 +30219,28 @@ width = 645;
 },
 {
 glyphname = "ggo-ethiopic.etcp";
-lastChange = "2020-12-27 19:04:12 +0000";
+lastChange = "2021-01-03 19:52:03 +0000";
 layers = (
 {
 components = (
 {
 name = ga.base.cap;
-transform = "{1, 0, 0, 1, 134, 0}";
 },
 {
 name = _smart.hat;
-transform = "{1, 0, 0, 1, 637, 459}";
+transform = "{1, 0, 0, 1, 528, 459}";
+},
+{
+name = _smart.go;
+transform = "{1, 0, 0, 1, 535, 2}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
-paths = (
-{
-closed = 1;
-nodes = (
-"784 804 OFFCURVE",
-"786 857 OFFCURVE",
-"750 885 CURVE SMOOTH",
-"731 902 OFFCURVE",
-"690 912 OFFCURVE",
-"648 899 CURVE SMOOTH",
-"591 881 OFFCURVE",
-"575 839 OFFCURVE",
-"575 813 CURVE SMOOTH",
-"575 750 OFFCURVE",
-"669 717 OFFCURVE",
-"741 771 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"610 770 OFFCURVE",
-"614 877 OFFCURVE",
-"678 882 CURVE SMOOTH",
-"704 884 OFFCURVE",
-"722 860 OFFCURVE",
-"720 828 CURVE SMOOTH",
-"716 796 OFFCURVE",
-"695 770 OFFCURVE",
-"669 770 CURVE SMOOTH"
-);
-}
-);
 userData = {
 _smart.hat = 1;
 _smart.neck = 1;
 };
-width = 675;
+width = 645;
 }
 );
 leftMetricsKey = ga.base;
@@ -47183,10 +47160,14 @@ width = 485;
 },
 {
 glyphname = ga.base.cap;
-lastChange = "2020-12-27 04:05:11 +0000";
+lastChange = "2021-01-03 19:52:03 +0000";
 layers = (
 {
 anchors = (
+{
+name = go;
+position = "{536, 747}";
+},
 {
 name = gwa;
 position = "{452, -62}";
@@ -50695,7 +50676,7 @@ rsb = -185;
 },
 {
 glyphname = ya.base.cap;
-lastChange = "2020-12-26 23:27:00 +0000";
+lastChange = "2021-01-03 19:47:55 +0000";
 layers = (
 {
 anchors = (
@@ -50722,6 +50703,10 @@ position = "{620, 145}";
 {
 name = hu;
 position = "{598, 173}";
+},
+{
+name = ye;
+position = "{649, 117}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
@@ -51274,6 +51259,56 @@ width = 335;
 },
 {
 export = 0;
+glyphname = _smart.go;
+lastChange = "2021-01-03 19:51:41 +0000";
+layers = (
+{
+anchors = (
+{
+name = _go;
+position = "{1, 745}";
+}
+);
+layerId = "1691882E-B915-4755-A5B2-757873D945FF";
+paths = (
+{
+closed = 1;
+nodes = (
+"124 804 OFFCURVE",
+"126 857 OFFCURVE",
+"90 885 CURVE SMOOTH",
+"71 902 OFFCURVE",
+"30 912 OFFCURVE",
+"-12 899 CURVE SMOOTH",
+"-69 881 OFFCURVE",
+"-85 839 OFFCURVE",
+"-85 813 CURVE SMOOTH",
+"-85 750 OFFCURVE",
+"9 717 OFFCURVE",
+"81 771 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-50 770 OFFCURVE",
+"-46 877 OFFCURVE",
+"18 882 CURVE SMOOTH",
+"44 884 OFFCURVE",
+"62 860 OFFCURVE",
+"60 828 CURVE SMOOTH",
+"56 796 OFFCURVE",
+"35 770 OFFCURVE",
+"9 770 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+},
+{
+export = 0;
 glyphname = _smart.gwa;
 lastChange = "2020-12-26 06:27:48 +0000";
 layers = (
@@ -51403,7 +51438,7 @@ width = 603;
 {
 export = 0;
 glyphname = _smart.ye;
-lastChange = "2020-12-26 06:27:48 +0000";
+lastChange = "2021-01-03 19:48:46 +0000";
 layers = (
 {
 anchors = (
@@ -51417,22 +51452,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"125 -113 OFFCURVE",
-"127 -107 OFFCURVE",
-"130 -103 CURVE SMOOTH",
-"244 45 LINE",
-"253 60 OFFCURVE",
-"220 49 OFFCURVE",
-"211 40 CURVE SMOOTH",
-"95 -73 LINE",
-"-135 16 LINE SMOOTH",
-"-185 35 OFFCURVE",
-"-194 21 OFFCURVE",
-"-173 11 CURVE SMOOTH",
-"73 -112 LINE SMOOTH",
-"89 -120 OFFCURVE",
-"107 -115 OFFCURVE",
-"116 -115 CURVE SMOOTH"
+"179 -97 OFFCURVE",
+"180 -91 OFFCURVE",
+"182 -86 CURVE SMOOTH",
+"268 79 LINE",
+"275 96 OFFCURVE",
+"244 79 OFFCURVE",
+"237 69 CURVE SMOOTH",
+"142 -63 LINE",
+"-100 -15 LINE SMOOTH",
+"-152 -5 OFFCURVE",
+"-159 -20 OFFCURVE",
+"-136 -26 CURVE SMOOTH",
+"127 -105 LINE SMOOTH",
+"144 -110 OFFCURVE",
+"161 -102 OFFCURVE",
+"170 -100 CURVE SMOOTH"
 );
 }
 );
