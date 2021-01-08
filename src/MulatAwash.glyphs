@@ -2,8 +2,11 @@
 .appVersion = "3039";
 DisplayStrings = (
 "/bi-ethiopic",
-"/iGlottal-ethiopic.etcp",
-"/kxi-ethiopic.etcp"
+"/aGl.base.cap/iGlottal-ethiopic.etcp/hi-ethiopic/li-ethiopic/hhi-ethiopic/mi-ethiopic/szi-ethiopic/si-ethiopic/shi-ethiopic/qi-ethiopic/qhi-ethiopic/bi-ethiopic/vi-ethiopic/ti-ethiopic/ci-ethiopic/xi-ethiopic/ni-ethiopic/nyi-ethiopic/iGlottal-ethiopic/ki-ethiopic/kxi-ethiopic/wi-ethiopic/iPharyngeal-ethiopic/zi-ethiopic/zhi-ethiopic/yi-ethiopic/di-ethiopic/ddi-ethiopic/ji-ethiopic/gi-ethiopic/ggi-ethiopic/thi-ethiopic/chi-ethiopic/phi-ethiopic/tsi-ethiopic/tzi-ethiopic/pi-ethiopic/hi-ethiopic.etcp/li-ethiopic.etcp/hhi-ethiopic.etcp/mi-ethiopic.etcp/szi-ethiopic.etcp/si-ethiopic.etcp/shi-ethiopic.etcp/qi-ethiopic.etcp/qhi-ethiopic.etcp/bi-ethiopic.etcp/vi-ethiopic.etcp/ti-ethiopic.etcp/ci-ethiopic.etcp/xi-ethiopic.etcp/ni-ethiopic.etcp/nyi-ethiopic.etcp/ki-ethiopic.etcp/kxi-ethiopic.etcp/wi-ethiopic.etcp/iPharyngeal-ethiopic.etcp/zi-ethiopic.etcp/zhi-ethiopic.etcp/yi-ethiopic.etcp/di-ethiopic.etcp/ddi-ethiopic.etcp/ji-ethiopic.etcp/gi-ethiopic.etcp/ggi-ethiopic.etcp/thi-ethiopic.etcp/chi-ethiopic.etcp/phi-ethiopic.etcp/tsi-ethiopic.etcp/tzi-ethiopic.etcp/pi-ethiopic.etcp/hi-ethiopic.fina/li-ethiopic.fina/hhi-ethiopic.fina/mi-ethiopic.fina/si-ethiopic.fina/shi-ethiopic.fina/qi-ethiopic.fina/qhi-ethiopic.fina/bi-ethiopic.fina/vi-ethiopic.fina/ti-ethiopic.fina/ci-ethiopic.fina/xi-ethiopic.fina/ni-ethiopic.fina/nyi-ethiopic.fina/iGlottal-ethiopic.fina/ki-ethiopic.fina/kwi-ethiopic.fina/kxi-ethiopic.fina/kxwi-ethiopic.fina/wi-ethiopic.fina/iPharyngeal-ethiopic.fina/gi-ethiopic.fina/ggi-ethiopic.fina/thi-ethiopic.fina/chi-ethiopic.fina/tzi-ethiopic.fina/pi-ethiopic.fina/xi-ethiopic.init/ni-ethiopic.init/nyi-ethiopic.init",
+"/kxi-ethiopic.etcp",
+"/kxi-ethiopic",
+"/_smart.da.cap/du-ethiopic.etcp",
+"/da.base.cap/du-ethiopic.etcp"
 );
 classes = (
 {
@@ -27275,7 +27278,7 @@ width = 1195;
 },
 {
 glyphname = "iGlottal-ethiopic.etcp";
-lastChange = "2021-01-07 02:41:42 +0000";
+lastChange = "2021-01-08 11:25:04 +0000";
 layers = (
 {
 components = (
@@ -27284,7 +27287,7 @@ name = aGl.base.cap;
 },
 {
 name = _smart.hi;
-transform = "{1, 0, 0, 1, 1109, -750}";
+transform = "{1, 0, 0, 1, 1069, -730}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
@@ -29028,7 +29031,7 @@ width = 976;
 },
 {
 glyphname = "du-ethiopic.etcp";
-lastChange = "2020-12-26 23:26:21 +0000";
+lastChange = "2021-01-08 11:23:40 +0000";
 layers = (
 {
 components = (
@@ -29041,7 +29044,7 @@ transform = "{1, 0, 0, 1, 821, -148}";
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 950, -490}";
+transform = "{1, 0, 0, 1, 950, -440}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
@@ -29244,7 +29247,7 @@ width = 976;
 },
 {
 glyphname = "ddu-ethiopic.etcp";
-lastChange = "2020-12-31 05:58:32 +0000";
+lastChange = "2021-01-08 11:23:43 +0000";
 layers = (
 {
 components = (
@@ -29261,7 +29264,7 @@ transform = "{1, 0, 0, 1, 800, 293}";
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 950, -490}";
+transform = "{1, 0, 0, 1, 950, -440}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
@@ -29500,7 +29503,7 @@ width = 976;
 },
 {
 glyphname = "ju-ethiopic.etcp";
-lastChange = "2020-12-31 05:58:32 +0000";
+lastChange = "2021-01-08 11:23:43 +0000";
 layers = (
 {
 components = (
@@ -29521,7 +29524,7 @@ transform = "{1, 0, 0, 1, 851, 462}";
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 950, -490}";
+transform = "{1, 0, 0, 1, 950, -440}";
 }
 );
 layerId = "1691882E-B915-4755-A5B2-757873D945FF";
@@ -46161,7 +46164,7 @@ width = 0;
 },
 {
 glyphname = aGl.base.cap;
-lastChange = "2021-01-07 02:41:29 +0000";
+lastChange = "2021-01-08 11:25:04 +0000";
 layers = (
 {
 anchors = (
@@ -46187,7 +46190,7 @@ position = "{1099, -232}";
 },
 {
 name = hi;
-position = "{1083, -126}";
+position = "{1043, -106}";
 },
 {
 name = ho;
@@ -46660,7 +46663,7 @@ rightMetricsKey = N;
 },
 {
 glyphname = da.base.cap;
-lastChange = "2020-12-31 05:58:30 +0000";
+lastChange = "2021-01-08 11:23:40 +0000";
 layers = (
 {
 anchors = (
@@ -46694,7 +46697,7 @@ position = "{281, -52}";
 },
 {
 name = hu;
-position = "{927, 100}";
+position = "{927, 150}";
 },
 {
 name = hwa;
