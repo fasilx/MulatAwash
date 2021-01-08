@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninety-ethiopic" format="2">
+  <advance width="826"/>
+  <unicode hex="137A"/>
+  <outline>
+    <contour>
+      <point x="446" y="467" type="line"/>
+      <point x="435" y="236" type="line"/>
+      <point x="479" y="217" type="line"/>
+      <point x="491" y="447" type="line"/>
+    </contour>
+    <component base="_number.bars" xOffset="157"/>
+    <component base="seven" xOffset="157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_number.bars</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenthousand-ethiopic" format="2">
+  <advance width="1281"/>
+  <unicode hex="137C"/>
+  <outline>
+    <contour>
+      <point x="177" y="84" type="line"/>
+      <point x="628" y="84" type="line"/>
+      <point x="646" y="129" type="line"/>
+      <point x="196" y="129" type="line"/>
+    </contour>
+    <component base="hundred-ethiopic"/>
+    <component base="_number.bars" xOffset="537"/>
+    <component base="hundred-ethiopic" xOffset="455"/>
+  </outline>
+</glyph>

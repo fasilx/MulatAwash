@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-ethiopic" format="2">
+  <advance width="826"/>
+  <unicode hex="136A"/>
+  <outline>
+    <contour>
+      <point x="168" y="47" type="curve"/>
+      <point x="202" y="23" type="line"/>
+      <point x="210" y="36"/>
+      <point x="219" y="51"/>
+      <point x="228" y="66" type="curve" smooth="yes"/>
+      <point x="312" y="208"/>
+      <point x="375" y="359"/>
+      <point x="476" y="545" type="curve" smooth="yes"/>
+      <point x="484" y="559"/>
+      <point x="499" y="576"/>
+      <point x="506" y="590" type="curve"/>
+      <point x="461" y="571" type="line"/>
+      <point x="451" y="553"/>
+      <point x="438" y="535"/>
+      <point x="428" y="516" type="curve" smooth="yes"/>
+      <point x="327" y="330" type="line" smooth="yes"/>
+      <point x="260" y="206"/>
+      <point x="214" y="127"/>
+    </contour>
+    <component base="_number.bars" xOffset="157"/>
+    <component base="three" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_number.bars</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

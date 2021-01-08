@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hat.agl" format="2">
+  <anchor x="24" y="560" name="_hat.agl"/>
+  <anchor x="1042" y="842" name="_neck"/>
+  <outline>
+    <contour>
+      <point x="-126" y="559" type="line"/>
+      <point x="153" y="562" type="line"/>
+      <point x="153" y="594" type="line"/>
+      <point x="-126" y="594" type="line"/>
+    </contour>
+  </outline>
+</glyph>

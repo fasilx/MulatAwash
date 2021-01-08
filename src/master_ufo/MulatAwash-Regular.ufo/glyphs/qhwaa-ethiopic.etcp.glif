@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qhwaa-ethiopic.etcp" format="2">
+  <advance width="970"/>
+  <anchor x="475" y="-8" name="haa"/>
+  <anchor x="495" y="-78" name="haa.acute"/>
+  <anchor x="704" y="834" name="hat"/>
+  <anchor x="634" y="832" name="he.acute"/>
+  <anchor x="500" y="-246" name="hee"/>
+  <anchor x="416" y="-151" name="hi"/>
+  <anchor x="669" y="828" name="ho.ring"/>
+  <anchor x="1018" y="56" name="hu"/>
+  <anchor x="481" y="-39" name="hwa"/>
+  <anchor x="653" y="655" name="neck"/>
+  <outline>
+    <component base="wa.base.cap"/>
+    <component base="_smart.neck" xOffset="663" yOffset="264"/>
+    <component base="_smart.hat" xOffset="706" yOffset="453"/>
+    <component base="_smart.hwa" xOffset="405" yOffset="-817"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.cap</key>
+      <integer>1</integer>
+      <key>_smart.hwa.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

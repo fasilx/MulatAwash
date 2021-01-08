@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oGlottal-ethiopic.etcp" format="2">
+  <advance width="1195"/>
+  <outline>
+    <component base="aGl.base.cap"/>
+    <component base="_smart.ho" xOffset="629" yOffset="-831"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

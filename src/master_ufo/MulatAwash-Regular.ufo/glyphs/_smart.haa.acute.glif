@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.haa.acute" format="2">
+  <anchor x="17" y="389" name="_haa.acute"/>
+  <outline>
+    <contour>
+      <point x="-148" y="257" type="line"/>
+      <point x="63" y="383" type="line"/>
+      <point x="44" y="414" type="line"/>
+      <point x="-167" y="288" type="line"/>
+    </contour>
+  </outline>
+</glyph>

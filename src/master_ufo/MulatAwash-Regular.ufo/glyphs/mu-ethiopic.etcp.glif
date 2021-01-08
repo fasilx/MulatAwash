@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu-ethiopic.etcp" format="2">
+  <advance width="1647"/>
+  <anchor x="1389" y="-85" name="haa"/>
+  <anchor x="890" y="-81" name="haa.acute"/>
+  <anchor x="1340" y="-304" name="hee"/>
+  <anchor x="1219" y="-133" name="hi"/>
+  <anchor x="930" y="-39" name="ho"/>
+  <anchor x="1774" y="273" name="hu"/>
+  <anchor x="1352" y="-100" name="hwa"/>
+  <outline>
+    <component base="ma.base.cap"/>
+    <component base="_smart.hu" xOffset="1797" yOffset="-317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

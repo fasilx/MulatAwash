@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu-ethiopic.init" format="2">
+  <advance width="245"/>
+  <anchor x="189" y="-31" name="gwa"/>
+  <anchor x="145" y="-15" name="haa.acute"/>
+  <anchor x="141" y="587" name="hat"/>
+  <anchor x="76" y="574" name="he"/>
+  <anchor x="218" y="-188" name="hee"/>
+  <anchor x="135" y="-45" name="hi"/>
+  <anchor x="311" y="274" name="hu"/>
+  <anchor x="25" y="532" name="nose.ext"/>
+  <outline>
+    <component base="nna.base.002"/>
+    <component base="_smart.hu" xOffset="334" yOffset="-316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-ethiopic" format="2">
+  <advance width="826"/>
+  <unicode hex="1370"/>
+  <outline>
+    <component base="_number.bars" xOffset="157"/>
+    <component base="one" xOffset="157"/>
+    <component base="acute" xScale="-1" yScale="-1" xOffset="485" yOffset="770"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_number.bars</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

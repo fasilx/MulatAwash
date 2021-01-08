@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eighty-ethiopic" format="2">
+  <advance width="826"/>
+  <unicode hex="1379"/>
+  <outline>
+    <component base="_number.bars" xOffset="157"/>
+    <component base="one" xOffset="117"/>
+    <component base="one" xOffset="407"/>
+    <component base="macron" xOffset="360" yOffset="169"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_number.bars</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
