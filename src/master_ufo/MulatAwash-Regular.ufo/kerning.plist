@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>F</key>
+    <dict>
+      <key>i</key>
+      <integer>75</integer>
+    </dict>
+    <key>P</key>
+    <dict>
+      <key>a</key>
+      <integer>-54</integer>
+      <key>e</key>
+      <integer>-54</integer>
+      <key>i</key>
+      <integer>42</integer>
+      <key>l</key>
+      <integer>21</integer>
+      <key>o</key>
+      <integer>-61</integer>
+      <key>r</key>
+      <integer>28</integer>
+      <key>s</key>
+      <integer>-34</integer>
+      <key>u</key>
+      <integer>-61</integer>
+      <key>y</key>
+      <integer>-54</integer>
+    </dict>
+    <key>T</key>
+    <dict>
+      <key>U</key>
+      <integer>205</integer>
+      <key>i</key>
+      <integer>75</integer>
+    </dict>
+    <key>u</key>
+    <dict>
+      <key>s</key>
+      <integer>-1</integer>
+    </dict>
+  </dict>
+</plist>

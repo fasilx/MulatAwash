@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oPharyngeal-ethiopic" format="2">
+  <advance width="509"/>
+  <unicode hex="12D6"/>
+  <anchor x="357" y="303" name="belt"/>
+  <anchor x="238" y="-36" name="haa"/>
+  <anchor x="213" y="-57" name="haa.acute"/>
+  <anchor x="387" y="576" name="he.acute"/>
+  <anchor x="253" y="-209" name="hee"/>
+  <anchor x="134" y="-40" name="hi"/>
+  <anchor x="525" y="265" name="hu"/>
+  <anchor x="176" y="-35" name="hwa"/>
+  <anchor x="467" y="507" name="neck"/>
+  <anchor x="412" y="512" name="top"/>
+  <outline>
+    <component base="oPh.base"/>
+    <component base="_smart.haa.acute" xOffset="196" yOffset="-446"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa.acute</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,42 +1,9 @@
 {
 .appVersion = "3039";
 DisplayStrings = (
-A,
-"/ya.base.cap/ye-ethiopic.etcp",
-"/circumflex/ye-ethiopic.etcp",
-"/ye-ethiopic.etcp/_smart.ye/ye-ethiopic",
-"/ga.base.cap/ggo-ethiopic.etcp",
-"/_smart.go/ggo-ethiopic.etcp",
-"/ya.base.cap/ye-ethiopic.etcp",
-"/nye-ethiopic.etcp",
-"/_smart.ye/ye-ethiopic.etcp",
-"/ggo-ethiopic.etcp",
-"ç",
-"Ø",
-"Æ",
-k,
-"¾",
-"½",
-"¼",
-"î",
-"/oe",
-"/threeeighths",
-"/twothirds",
-"r/pa.base",
-"/na.base.cap",
-"/ta.base.cap",
-"/oPh.base.cap",
-"/wa.base.cap",
-"/wa.base.001",
-"/tsa.base.cap",
-"/hha.base.cap",
-"/le-ethiopic.etcp",
-"/ra.base/fa.base/fa-ethiopic",
-"/ra.base/fa.base/fa-ethiopic",
-"r/fa.base/fa-ethiopic",
-"r/ra.base",
-"/wa.base",
-"/pa.base"
+"/bi-ethiopic",
+"/iGlottal-ethiopic.etcp",
+"/kxi-ethiopic.etcp"
 );
 classes = (
 {
@@ -311,6 +278,14 @@ divisionslash
 {
 name = vendorID;
 value = MULT;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 date = "2020-12-20 18:34:51 +0000";
@@ -27300,7 +27275,7 @@ width = 1195;
 },
 {
 glyphname = "iGlottal-ethiopic.etcp";
-lastChange = "2020-12-28 07:17:09 +0000";
+lastChange = "2021-01-07 02:41:42 +0000";
 layers = (
 {
 components = (
@@ -42945,7 +42920,7 @@ width = 0;
 },
 {
 glyphname = _smart.hi;
-lastChange = "2020-12-27 06:18:04 +0000";
+lastChange = "2021-01-07 02:43:31 +0000";
 layers = (
 {
 anchors = (
@@ -42959,18 +42934,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"123 494 LINE",
-"1 540 LINE SMOOTH",
-"-11 544 OFFCURVE",
+"126 534 LINE",
+"1 534 LINE SMOOTH",
+"-13 534 OFFCURVE",
 "-14 549 OFFCURVE",
 "-8 561 CURVE SMOOTH",
 "26 633 LINE",
 "-14 650 LINE",
 "-60 547 LINE SMOOTH",
 "-72 520 OFFCURVE",
-"-71 512 OFFCURVE",
-"-45 502 CURVE SMOOTH",
-"104 446 LINE"
+"-72 495 OFFCURVE",
+"-45 495 CURVE SMOOTH",
+"121 495 LINE"
 );
 }
 );
@@ -46186,7 +46161,7 @@ width = 0;
 },
 {
 glyphname = aGl.base.cap;
-lastChange = "2020-12-31 06:05:47 +0000";
+lastChange = "2021-01-07 02:41:29 +0000";
 layers = (
 {
 anchors = (

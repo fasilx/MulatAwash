@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra.base" format="2">
+  <advance width="390"/>
+  <anchor x="198" y="-13" name="haa"/>
+  <anchor x="233" y="453" name="hat"/>
+  <anchor x="346" y="80" name="hee"/>
+  <anchor x="197" y="165" name="hi"/>
+  <anchor x="182" y="-66" name="hu"/>
+  <anchor x="387" y="42" name="raa.helper"/>
+  <anchor x="305" y="45" name="ri.helper"/>
+  <outline>
+    <contour>
+      <point x="42" y="141"/>
+      <point x="35" y="102"/>
+      <point x="48" y="70" type="curve" smooth="yes"/>
+      <point x="68" y="18"/>
+      <point x="142" y="-12"/>
+      <point x="244" y="-4" type="curve" smooth="yes"/>
+      <point x="297" y="0"/>
+      <point x="347" y="15"/>
+      <point x="371" y="24" type="curve" smooth="yes"/>
+      <point x="384" y="29"/>
+      <point x="392" y="34"/>
+      <point x="390" y="49" type="curve" smooth="yes"/>
+      <point x="389" y="58"/>
+      <point x="380" y="60"/>
+      <point x="370" y="57" type="curve" smooth="yes"/>
+      <point x="344" y="49"/>
+      <point x="271" y="29"/>
+      <point x="241" y="26" type="curve" smooth="yes"/>
+      <point x="137" y="19"/>
+      <point x="103" y="49"/>
+      <point x="99" y="86" type="curve" smooth="yes"/>
+      <point x="95" y="118"/>
+      <point x="114" y="155"/>
+      <point x="127" y="173" type="curve" smooth="yes"/>
+      <point x="303" y="425" type="line" smooth="yes"/>
+      <point x="327" y="459"/>
+      <point x="323" y="496"/>
+      <point x="277" y="494" type="curve" smooth="yes"/>
+      <point x="235" y="492" type="line"/>
+      <point x="251" y="470"/>
+      <point x="264" y="448"/>
+      <point x="250" y="429" type="curve" smooth="yes"/>
+      <point x="74" y="185" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

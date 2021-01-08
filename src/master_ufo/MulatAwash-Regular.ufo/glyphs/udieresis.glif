@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis" format="2">
+  <advance width="552"/>
+  <unicode hex="00FC"/>
+  <note>
+udieresis
+</note>
+  <anchor x="492" y="519" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresis" xOffset="347" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>
