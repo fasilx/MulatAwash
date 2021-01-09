@@ -7,6 +7,6 @@ Acknowledgements
 N: Fasil Fikreab E: fasil.fikreab@gmail.com W: http://mulat.org
 
 Change Logs:
-v1.005 changes make in deopymet metada on cpanel, no effect on types of fonts
+v1.006 changes make in deopymet metada on cpanel, no effect on types of fonts
 
 mulat.org is a not-for-profit developer startup that promises to create software based learning tools for students in Ethiopia and Eritrea.
