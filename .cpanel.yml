@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/mulazjre/cdn.mulat.org
-    - zip awash.zip MulatAwash-*.* 
-    - bin/mv awash.zip $DEPLOYPATH
+    - zip awash.zip MulatAwash-*.* README.md
+    - /bin/mv awash.zip $DEPLOYPATH
