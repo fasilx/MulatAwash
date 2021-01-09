@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mulazjre/cdn.mulat.org/fonts
+    - export DEPLOYPATH=/home/mulazjre/cdn.mulat.org/awash
     - /bin/cp MulatAwash-*.* $DEPLOYPATH
     - /bin/cp README.txt $DEPLOYPATH
