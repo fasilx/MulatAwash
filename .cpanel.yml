@@ -6,4 +6,4 @@ deployment:
     - /bin/cp MulatAwash-*.* $DEPLOYPATH/awash
     - /bin/cp README.md $DEPLOYPATH/awash
     - zip -d $DEPLOYPATH/awash/awash.zip ./awash 
-    - ehco "finished"
+    - ehco "....finished"
