@@ -5,5 +5,7 @@ deployment:
     - mkdir -p $DEPLOYPATH/awash
     - /bin/cp MulatAwash-*.* $DEPLOYPATH/awash
     - /bin/cp README.md $DEPLOYPATH/awash
-    - zip $DEPLOYPATH/awash/awash.zip $DEPLOYPATH/awash/*
-    - ehco "....finished....."
+    - zip -mj awash.zip $DEPLOYPATH/awash/*
+    - mv awash.zip $DEPLOYPATH/awash
+    - echo "....finished............"
+
