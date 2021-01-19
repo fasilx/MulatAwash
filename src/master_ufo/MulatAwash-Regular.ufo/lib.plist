@@ -261,9 +261,10 @@
     <string>3039</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>/bi-ethiopic</string>
-      <string>/iGlottal-ethiopic.etcp</string>
-      <string>/kxi-ethiopic.etcp</string>
+      <string>/pa.base.cap</string>
+      <string>/ta.base.cap</string>
+      <string>s</string>
+      <string>/r.001</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>

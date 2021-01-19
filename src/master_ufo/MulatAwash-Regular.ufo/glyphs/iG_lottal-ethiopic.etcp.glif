@@ -3,7 +3,7 @@
   <advance width="1195"/>
   <outline>
     <component base="aGl.base.cap"/>
-    <component base="_smart.hi" xOffset="1109" yOffset="-750"/>
+    <component base="_smart.hi" xOffset="1069" yOffset="-730"/>
   </outline>
   <lib>
     <dict>

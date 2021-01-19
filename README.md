@@ -9,6 +9,10 @@ Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 Added:
 - .cpanel.yml to for deployment on cPanel
 
+[1.005] 01-17-2021 
+- change cpanel.yml zip command, remove -m swtich
+- fix kenring for T, reduce RSB
+
 ## Contribute
 To contribute to the project see https://github.com/fasilx/ and open a pull request.
 
