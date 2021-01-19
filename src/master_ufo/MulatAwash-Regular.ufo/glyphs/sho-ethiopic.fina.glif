@@ -4,7 +4,8 @@
   <anchor x="328" y="473" name="aGl"/>
   <anchor x="400" y="-22" name="haa"/>
   <anchor x="511" y="667" name="hat"/>
-  <anchor x="349" y="817" name="hat.left"/>
+  <anchor x="429" y="814" name="hat.agl"/>
+  <anchor x="311" y="815" name="hat.left"/>
   <anchor x="266" y="223" name="he"/>
   <anchor x="308" y="618" name="he.aGl"/>
   <anchor x="489" y="586" name="he.acute"/>
@@ -20,10 +21,13 @@
     <component base="ba.base.001"/>
     <component base="_smart.neck" xOffset="485" yOffset="106"/>
     <component base="_smart.hat" xOffset="513" yOffset="286"/>
+    <component base="_smart.ho" xOffset="60" yOffset="-715"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.ho</key>
       <integer>1</integer>
       <key>_smart.neck</key>
       <integer>1</integer>

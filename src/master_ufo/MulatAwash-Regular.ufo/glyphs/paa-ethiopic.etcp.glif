@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="paa-ethiopic.etcp" format="2">
-  <advance width="1250"/>
+  <advance width="1130"/>
   <anchor x="719" y="-10" name="haa"/>
   <anchor x="601" y="-93" name="haa.acute"/>
   <anchor x="588" y="-265" name="hee"/>
